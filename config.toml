@@ -1,4 +1,4 @@
-baseurl = "https://nakdesu.gitlab.io/"
+baseurl = "https://nakdesu.github.io/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 title = "Nako Nishke"
