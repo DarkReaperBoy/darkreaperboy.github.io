@@ -829,13 +829,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/background-vintage.jpg": {
+	"\/img\/background-vintage.webp": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 51189,
-		"inputAbbreviatedPath": "\/img\/background-vintage.jpg",
-		"outputAbbreviatedPath": "\/img\/background-vintage.jpg",
+		"inputAbbreviatedPath": "\/img\/background-vintage.webp",
+		"outputAbbreviatedPath": "\/img\/background-vintage.webp",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

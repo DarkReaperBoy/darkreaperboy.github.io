@@ -22,7 +22,7 @@ subtitle = "..."
 [params.sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar.webp"
 
 [params.article]
 math = false
