@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var resetButton = document.getElementById("resetBackgroundBtn");
 
     function n(t) {
-        url_str = "url(media/bg/bg" + t + ".jpg)";
+        url_str = "url(media/bg/bg" + t + ".webp)";
         console.log(url_str);
         void 0 === t | !t ?
             (document.getElementById("canvasContainer").style.display = "block", document.getElementById("body").style.display.backgroundImage = "none", document.getElementById("resetBackgroundBtn").style.display = "none") :
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
     bg_count = 6;
 
     for (var c = 0; c <= 5; c++) {
-        var l = "media/bg-thumbs/bg" + c + ".jpg";
+        var l = "media/bg-thumbs/bg" + c + ".webp";
         // console.log(l);
         var i = bg_thumb.cloneNode(true);
         i.classList.remove("template");
