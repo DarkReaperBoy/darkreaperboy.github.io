@@ -3,6 +3,7 @@ title: "links"
 draft: false
 ---
 
+https://www.youtube.com/channel/UC6dsQSn70Cem7zFsUANHqpQ
 https://zenorocha.com/the-two-types-of-quality
 https://libreddit.tiekoetter.com/r/LinuxCrackSupport/comments/v2k7jv/guide_information_to_run_games_on_linux_some/
 https://www.reddit.com/r/LinuxCrackSupport/wiki/index
