@@ -1,0 +1,133 @@
+baseurl = "https://nakdesu.gitlab.io/"
+languageCode = "en-us"
+theme = "hugo-theme-stack"
+title = "Nako Nishke"
+hasCJKLanguage = false
+
+[permalinks]
+post = "/p/:slug/"
+page = "/:slug/"
+
+[params]
+mainSections = [ "post" ]
+
+[params.dateFormat]
+published = "Jan 02, 2006"
+lastUpdated = "Jan 02, 2006 15:04 MST"
+
+[params.sidebar]
+emoji = "𓅱"
+subtitle = "..."
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+[params.article]
+math = false
+toc = true
+readingTime = false
+
+[params.article.license]
+enabled = false
+default = "Licensed under CC BY-NC-SA 4.0"
+
+[params.comments]
+enabled = false
+provider = "disqus"
+
+[[params.widgets.homepage]]
+type = "search"
+
+[[params.widgets.homepage]]
+type = "archives"
+
+[params.widgets.homepage.params]
+limit = 5
+
+[[params.widgets.homepage]]
+type = "categories"
+
+[params.widgets.homepage.params]
+limit = 10
+
+[[params.widgets.homepage]]
+type = "tag-cloud"
+
+[params.widgets.homepage.params]
+limit = 10
+
+[[params.widgets.page]]
+type = "toc"
+
+[params.opengraph.twitter]
+card = "summary_large_image"
+
+[params.defaultImage.opengraph]
+enabled = false
+local = false
+
+[params.colorScheme]
+toggle = true
+default = "dark"
+
+[params.imageProcessing.cover]
+enabled = true
+
+[params.imageProcessing.content]
+enabled = true
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/nakdes/nakdes.github.io"
+
+[menu.social.params]
+icon = "brand-github"
+
+[[menu.social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/WhiteHermit"
+
+[menu.social.params]
+icon = "brand-telegram"
+
+[[menu.social]]
+identifier = "email"
+name = "Email (never use)"
+url = "mailto:nako47@protonmail.com"
+
+[menu.social.params]
+icon = "mail"
+
+[related]
+includeNewer = false
+threshold = 60
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 200
+
+[markup.goldmark.renderer]
+unsafe = false
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4
