@@ -1,6 +1,5 @@
 ---
 title: "Telegram"
-date: 2022-08-11T18:48:27+04:00
 draft: false
 description: 'hallo'
 ---
