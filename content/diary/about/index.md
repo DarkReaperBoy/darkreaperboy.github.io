@@ -3,6 +3,10 @@ title: "About Me"
 draft: false
 ---
 
+![wave.webp](wave.webp)
+
+---
+
 oh, hello there, *so you really came to stalk me, how pathetic…*
 well it’s ok, since i am aware of the fact, online stalking is indeed fun!
 oh don’t worry, i’ll not leave you empty handed, but, it’s sad that you will know only know what i want you to know, you know, there are 2 type of internet stalkers, first is the person who admires you, and second, is the person who hates you big time, they want you badly, ***if you are the second type i promise you, you will get bored very, very, soon….***
@@ -31,6 +35,9 @@ My goal is to bring accessible knowledge on these topics to the many and hopeful
 ### ~ Social media
 
 ![/caca1.webp](caca1.webp)
+
+---
+
 [**Telegram**](https://t.me/naknakdes) ~ my favorite, feel free to contact me
 
 **Discord**: Nakoshi#1520 (always afk) ~ i have it but i'm not active, i don’t care about it
