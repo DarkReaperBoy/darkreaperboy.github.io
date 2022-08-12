@@ -14,4 +14,4 @@ draft: false
 also, there is also [_draft_](/draft/) section, but, it's boring unscripted
 right now, this site is in broken state, please don't expect much.
 
--- Nakoshi
+-- Nako
