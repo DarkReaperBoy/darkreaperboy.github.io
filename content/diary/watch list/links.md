@@ -3,10 +3,6 @@ title: "links"
 draft: false
 ---
 
-https://anime-heart.fr
-https://anime-list10.tk
-https://anime-list40.site
-https://anime-list9.site
 https://anime-pictures.net
 https://anime-sama.fr
 https://anime-sama.fr/scan
