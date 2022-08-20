@@ -5,7 +5,6 @@ draft: false
 
 ```markdown
 Immortals Fenyx Rising
-legend of zelda breath of the wild
 ```
 
 ```markdown
@@ -34,7 +33,6 @@ mad max
 ```markdown
 nier
 Call of Duty Advanced Warfare - [DODI Repack]
-Far Cry 5 - [DODI Repack]
 Call of Duty Infinite Warfare - [DODI Repack]
 naruto NXB NV
 ```
