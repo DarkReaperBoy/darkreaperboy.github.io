@@ -51,3 +51,6 @@ Butler to the World. By Oliver Bullough. St Martin’s Press
 American Kleptocracy. By Casey Michel. St Martin’s Press
 Billion Dollar Whale. By Tom Wright and Bradley Hope. Hachette Books
 ```
+
+
+Das Capital by Marx

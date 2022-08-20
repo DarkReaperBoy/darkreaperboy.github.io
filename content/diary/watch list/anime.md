@@ -129,6 +129,7 @@ Sentounin Hakkenshimasu
 ```
 
 ```markdown
+Nanatsu no Taizai
 Belladonna of Sadness
 ```
 
