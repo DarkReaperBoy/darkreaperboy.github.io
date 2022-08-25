@@ -1,3 +1,7 @@
+other:
+Tatsuki fujimoto
+
+
 
 complete 
 Senryu Girl
@@ -19,3 +23,4 @@ Watari-kun no xx ga Houkai Sunzen (it's drama tho)
 
 idk
 Takagi-san
+
