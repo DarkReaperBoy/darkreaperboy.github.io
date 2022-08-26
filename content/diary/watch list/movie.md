@@ -3,22 +3,6 @@ title: "movie"
 draft: false
 ---
 
-```markdown
-Love Death Robots
-The Truman Show
-```
-
-```markdown
-Scouts Guide to the Zombie Apocalypse
-```
-
-```markdown
-black mirror
-Love, Death and Robots
-```
-
-```markdown
-Halt and Catch Fire
 Westworld
 The Travelling Salesman
 Primer
