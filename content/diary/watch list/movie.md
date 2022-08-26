@@ -3,7 +3,6 @@ title: "movie"
 draft: false
 ---
 
-Westworld
 The Travelling Salesman
 Primer
 World on a Wire
