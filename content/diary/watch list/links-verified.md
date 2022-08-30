@@ -18,6 +18,9 @@ https://www.youtube.com/user/rossmanngroup/videos (right to repair)
 https://www.youtube.com/channel/UCp1mRTkVlqDnxz_9S0YD9YQ (Indian Philosophies for Life)
 https://www.youtube.com/channel/UCdZmX-f3TDaRhnhM4KLM4SQ (ER Doctor, gaming reaction)
 https://www.youtube.com/c/UpIsNotJump/ (british is abslote nightmare)
+https://www.youtube.com/c/Moosashi/ (genshin bug,fact)
+https://www.youtube.com/user/penguinz0/ (daily shitposter)
+
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
