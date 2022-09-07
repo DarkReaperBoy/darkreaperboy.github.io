@@ -20,6 +20,7 @@ https://www.youtube.com/channel/UCdZmX-f3TDaRhnhM4KLM4SQ (ER Doctor, gaming reac
 https://www.youtube.com/c/UpIsNotJump/ (british is abslote nightmare)
 https://www.youtube.com/c/Moosashi/ (genshin bug,fact)
 https://www.youtube.com/user/penguinz0/ (daily shitposter)
+https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q (Kurzgesagt – In a Nutshell)
 
 
 youtube watch:
