@@ -55,14 +55,14 @@ Generally, the first port of call for problems that you may encounter is the ded
 *[https://www.reddit.com/r/LinuxQuestions /r/LinuxQuestions] - general Linux support subreddit
 *[https://www.reddit.com/r/Linux4Noobs /r/Linux4Noobs] - subreddit providing Linux support that is "explicitly noob-friendly"
 *[https://www.reddit.com/r/techsupport /r/techsupport] - large multi-OS support subreddit
-*[http://www.linuxquestions.org/ LinuxQuestions.org] - very well established general support site for Linux
+*[https://www.linuxquestions.org/ LinuxQuestions.org] - very well established general support site for Linux
 *[https://www.gamingonlinux.com/forum/tech-help GamingOnLinux.com Tech Forum] - All Linux gaming related tech help topics accepted
 *[https://github.com/ValveSoftware/steam-for-linux/issues Official Steam for Linux bug tracker] - searching for issues posted on Steam or games on Steam may provide solutions
 *[https://www.protondb.com/ ProtonDB] - user reports on Proton/Steam Play game compatibility, often with comments regarding necessary tweaks
 *[https://github.com/ValveSoftware/Proton/issues Official Proton bug tracker] - generally every Proton game is kept track of in its own issue report, so see if your game already has one and only create a new report if one doesn't exist
-*[http://support.feralinteractive.com/ Feral Interactive] - for support on any games that have been ported/published by Feral Interactive
-*[http://appdb.winehq.org/ Wine Database] - holds support information for games that can be run through Wine
-*[http://forum.winehq.org/ Wine Forums] - for support on games run through Wine that may not be covered in the Database
+*[https://support.feralinteractive.com/ Feral Interactive] - for support on any games that have been ported/published by Feral Interactive
+*[https://appdb.winehq.org/ Wine Database] - holds support information for games that can be run through Wine
+*[https://forum.winehq.org/ Wine Forums] - for support on games run through Wine that may not be covered in the Database
 
 ==External Links==
 Lists of sites that may be of interest or help to people interested in Linux gaming. All the of the information held within these sites is the responsibility of their respective owners.
@@ -70,55 +70,55 @@ Lists of sites that may be of interest or help to people interested in Linux gam
 Crowdfunding
 
 *[https://www.gamingonlinux.com/index.php?module=crowdfunders GamingOnLinux's list of crowdfunding campaigns] - information on all known current crowdfunding campaigns relevant to Linux games.
-*[http://www.indiegogo.com/ Indiegogo] - broad range crowdfunding site, often used for Linux game campaigns
-*[http://www.kickstarter.com/ Kickstarter] - largest crowdfunding site and frequently used for Linux game campaigns
+*[https://www.indiegogo.com/ Indiegogo] - broad range crowdfunding site, often used for Linux game campaigns
+*[https://www.kickstarter.com/ Kickstarter] - largest crowdfunding site and frequently used for Linux game campaigns
 
 Linux Game databases
 
 *[https://lutris.net/ Lutris] - most important source of information about how well non Steam games run. Also contains scripts that install the game. Easiest to use with the Lutris launcher.
 *[https://www.gamingonlinux.com/db GamingOnLinux Database] - tracking all Linux games and more
-*[http://pcgamingwiki.com/wiki/Home PCGamingWiki] - multi-OS game database
-*[http://www.penguspy.com/ PenguSpy] - database of Linux games
-*[http://boilingsteam.com/recommended-games/ Recommended Linux Games] - selection of well received games available on Linux, with DRM information.
+*[https://pcgamingwiki.com/wiki/Home PCGamingWiki] - multi-OS game database
+*[https://www.penguspy.com/ PenguSpy] - database of Linux games
+*[https://boilingsteam.com/recommended-games/ Recommended Linux Games] - selection of well received games available on Linux, with DRM information.
 *[https://www.reddit.com/r/LinuxVSWinBenchmarks/ Benchmark comparison of Linux/Windows] - subreddit where someone uploads videos comparing Linux vs Windows.
 
 Linux Game Stores
 
 *[https://store.feralinteractive.com/ The Feral Store]
 *[https://www.gog.com/ GOG.com] - contains downloadable Linux binaries, but launcher (GOG Galaxy) is not available for Linux
-*[http://pcgamingwiki.com/wiki/Humble_Store PCGamingWiki's] list of Humble Store Games - lists games available through Humble Store widgets
+*[https://pcgamingwiki.com/wiki/Humble_Store PCGamingWiki's] list of Humble Store Games - lists games available through Humble Store widgets
 *[https://itch.io/ itch.io] - provides many indie games and game assets via it's Linux native app or website.
 *[https://www.indiegala.com/ Indiegala]
 *[https://indiegamestand.com/store/ IndieGameStand Store]
-*[http://store.steampowered.com/ Steam] - requires Steam client to install / run games
+*[https://store.steampowered.com/ Steam] - requires Steam client to install / run games
 
 Steam Specific
 
 *[https://www.protondb.com/ ProtonDB] - database of crowdsourced reports of Steam game compatibility with Proton
-*[http://steamcommunity.com/groups/redditlinuxgamers Official /r/linux_gaming Steam group]
-*[http://steamdb.info/ SteamDB] - site providing information on real-time changes to Steam games
-*[http://steamcommunity.com/app/221410/ Steam for Linux Community Site] - Steam's own hub for the Steam for Linux client and games
+*[https://steamcommunity.com/groups/redditlinuxgamers Official /r/linux_gaming Steam group]
+*[https://steamdb.info/ SteamDB] - site providing information on real-time changes to Steam games
+*[https://steamcommunity.com/app/221410/ Steam for Linux Community Site] - Steam's own hub for the Steam for Linux client and games
 *[https://www.reddit.com/u/maeries Chart of games on Steam] - Tracks the amount of Linux games on Steam (maintained by /u/maeries)
-*[http://steam.wikia.com/wiki/List_of_DRM-free_games List of DRM free games on Steam]
+*[https://steam.wikia.com/wiki/List_of_DRM-free_games List of DRM free games on Steam]
 
 Linux Gaming Sites
 
 *[https://www.gamingonlinux.com/ GamingOnLinux]
-*[http://www.boilingsteam.com/ BoilingSteam]
+*[https://www.boilingsteam.com/ BoilingSteam]
 *[https://linuxgamingcentral.com/ Linux Gaming Central]
 *[https://www.holarse-linuxgaming.de/ HOLARSE LinuxGaming] (GERMAN)
-*[http://linuxgamecast.com/ Linux Game Cast]
-*[http://www.linuxgames.com/ LinuxGames]
-*[http://rootgamer.com/ RootGamer]
+*[https://linuxgamecast.com/ Linux Game Cast]
+*[https://www.linuxgames.com/ LinuxGames]
+*[https://rootgamer.com/ RootGamer]
 
 Miscellaneous Sites
 
-*[http://www.dosbox.com/ DOSBox] - application to enable running old DOS games
-*[http://www.scummvm.org/ ScummVM] - another application which allows running various old games, but unlike DOSBox it natively reimplements their engines.
-*[http://lutris.net/ Lutris] - an open gaming platform for Linux. Manages all your native, WINE, and emulated games in one place.
-*[http://www.playonlinux.com/en/ PlayOnLinux] - application to make installation and running of games through Wine easier
+*[https://www.dosbox.com/ DOSBox] - application to enable running old DOS games
+*[https://www.scummvm.org/ ScummVM] - another application which allows running various old games, but unlike DOSBox it natively reimplements their engines.
+*[https://lutris.net/ Lutris] - an open gaming platform for Linux. Manages all your native, WINE, and emulated games in one place.
+*[https://www.playonlinux.com/en/ PlayOnLinux] - application to make installation and running of games through Wine easier
 *[https://flathub.org/home Flathub] - the default repository of Flatpak, a cross-platform package manager
-*[http://osgameclones.com/ OS Game Clones] - open source remakes of classics
+*[https://osgameclones.com/ OS Game Clones] - open source remakes of classics
 *[https://wiki.archlinux.org Arch Wiki] - a high quality, well maintained source for information on Arch Linux, as well as applications available for it. Most information also applies to other distributions.
 
 == Outdated pages in this wiki (please update them) ==

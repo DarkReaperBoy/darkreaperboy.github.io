@@ -21,7 +21,7 @@ Choosing a distribution
 Now, you have to choose what Linux distribution you will use. The two most popular Linux distributions are Ubuntu and Mint. Both of them are user-friendly to newbies, but Mint has a user interface similar to Windows. Ubuntu MATE or Xubuntu are good alternatives if you want a more classic look and feel. To find out what other distrubutions are popular among Linux gamers, check out the GOL statistics page.
 
 
-The installers are in .ISO format. You can burn it onto a DVD or use it to create a bootable USB installer. It's much easier to use a bootable USB installer using [Rufus](http://rufus.akeo.ie/) or [Etcher](https://etcher.io/). You will need a USB flash drive with at least 2GB capacity. It's also much faster to use a bootable USB installer compared to a DVD media.
+The installers are in .ISO format. You can burn it onto a DVD or use it to create a bootable USB installer. It's much easier to use a bootable USB installer using [Rufus](https://rufus.akeo.ie/) or [Etcher](https://etcher.io/). You will need a USB flash drive with at least 2GB capacity. It's also much faster to use a bootable USB installer compared to a DVD media.
 
 
 

@@ -22,7 +22,7 @@ set -e
 APP_PATH=$(dirname "$0")
 cd "$APP_PATH"
 # Use latest
-STEAM_RUNTIME_URL='http://repo.steampowered.com/steamrt-images-scout/snapshots/latest-steam-client-general-availability/steam-runtime.tar.xz'
+STEAM_RUNTIME_URL='https://repo.steampowered.com/steamrt-images-scout/snapshots/latest-steam-client-general-availability/steam-runtime.tar.xz'
 wget -c "$STEAM_RUNTIME_URL" || curl "$STEAM_RUNTIME_URL" --output steam-runtime.tar.xz
 
 # Extract it

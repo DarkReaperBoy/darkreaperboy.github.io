@@ -6,7 +6,7 @@ This is used to pirate native games like Shadow of the Tomb Raider, Life is Stra
 
 - It is expected that the user of this tool has knowledge in how Linux works and how to adapt the script to a specific game.
 
-- Steam Runtime needs to be provided as well in the same dir. See [Runtime Installer](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/Runtime-Installer)
+- Steam Runtime needs to be provided as well in the same dir. See [Runtime Installer](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/Runtime-Installer)
 
 ```sh
 #!/bin/bash

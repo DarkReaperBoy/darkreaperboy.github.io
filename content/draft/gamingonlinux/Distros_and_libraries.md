@@ -48,5 +48,5 @@ sudo pacman -S lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-icd-loader lib3
 ------------------------------------------------------------------------------------------------------------------
 * Native games:
 - GOG Native games come with runtime included, which means it shouldn't have problems with missing libraries.
-- Steam has Steam-Runtime builtin on it's client and is not included in the game files. I have built a [script](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/Runtime-Installer) that easily adds steam runtime and creates a script that runs the game with runtime.
+- Steam has Steam-Runtime builtin on it's client and is not included in the game files. I have built a [script](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/Runtime-Installer) that easily adds steam runtime and creates a script that runs the game with runtime.
 - Having steam-runtime installed should also provide some useful libraries. (Although the game maybe not use them since it's not forced to, unlike the usage of the script)

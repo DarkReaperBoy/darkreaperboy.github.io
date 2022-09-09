@@ -60,7 +60,7 @@ https://mangabaz.ir/
 🌐 لیست سایت فیلم و سریال خارجی بدون سانسور (زیرنویس چسبیده، زبان اصلی، دوبله)
 https://9movie.pw/
 https://t.me/nine9movie
-http://t.me/nine9movie_bot
+https://t.me/nine9movie_bot
 
 https://bluemo5.xyz/
 https://t.me/BlueMoviee_Com
@@ -85,11 +85,11 @@ https://t.me/almasmoviecom
 
 https://moviecottage1.fun/
 https://t.me/MovieCottage
-http://t.me/MyMovieCottageBot
+https://t.me/MyMovieCottageBot
 
 https://zedmovie9.xyz/
 https://t.me/zedmoviecom
-http://t.me/Zedmoviebot
+https://t.me/Zedmoviebot
 
 https://alefmovie.website/
 
@@ -105,14 +105,14 @@ https://atamovie2.lol/
 
 https://donyayeserial.org/
 https://t.me/donyayeserialtel
-http://t.me/DonyayeSerialBot
+https://t.me/DonyayeSerialBot
 
 
 🌐 نیمه اشتراکی (فقط دوبله هاش رایگان نیستند)
-http://salamdl.rip/
+https://salamdl.rip/
 https://t.me/salamdl
 
-http://myhastidl1.cam/
+https://myhastidl1.cam/
 https://t.me/my_hastidl
 
 https://avamovie16.xyz/

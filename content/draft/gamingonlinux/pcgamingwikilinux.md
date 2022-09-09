@@ -989,7 +989,7 @@ RAM use.
 |                       |                       | modern Windows.       |
 +-----------------------+-----------------------+-----------------------+
 | [Cinnamon](           | Heavy                 | Created by Linux Mint |
-| http://developer.linu |                       | Team, Cinnamon offers |
+| https://developer.linu |                       | Team, Cinnamon offers |
 | xmint.com/){.external |                       | an experience that is |
 | .text}                |                       | very similar to       |
 |                       |                       | Windows 7.            |
@@ -1114,7 +1114,7 @@ headers to make hardware usable with multiple kernels.
 
 The most notable releases:
 
--   [Linux CK](http://www.users.on.net/~ckolivas/kernel/){.external
+-   [Linux CK](https://www.users.on.net/~ckolivas/kernel/){.external
     .text}
 -   [Linux Zen](https://github.com/zen-kernel/zen-kernel){.external
     .text}
@@ -1799,7 +1799,7 @@ using it:
 |                       |                       | development           |
 +-----------------------+-----------------------+-----------------------+
 | [Q4Wine](             | Free                  | ::: {.svg-            |
-| http://q4wine.brezblo |                       | icon .svg-16 .thumbs- |
+| https://q4wine.brezblo |                       | icon .svg-16 .thumbs- |
 | ck.org.ua/){.external |                       | up title="Advantage"} |
 | .text}                |                       | :::                   |
 |                       |                       |                       |

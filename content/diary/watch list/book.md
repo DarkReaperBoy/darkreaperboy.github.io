@@ -8,7 +8,7 @@ Linux Basics for Hackers: Getting Started with Networking, Scripting, and Securi
 ```
 
 ```markdown
- http://www.ageekinjapan.com/
+ https://www.ageekinjapan.com/
 ```
 
 ```markdown

@@ -12,6 +12,6 @@ These lists were basis of the list existing here:
 
 ## Native patches
 
-* [linux installers for linux gamers - liflg](http://liflg.org/)
-* [icculus.org](http://icculus.org/)
-* [zerowing.idsoftware.com](http://zerowing.idsoftware.com/)
+* [linux installers for linux gamers - liflg](https://liflg.org/)
+* [icculus.org](https://icculus.org/)
+* [zerowing.idsoftware.com](https://zerowing.idsoftware.com/)

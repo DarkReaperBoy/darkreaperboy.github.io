@@ -54,7 +54,7 @@ Otherwise, if your software is not mentioned there, bring up [https://www.winehq
 === Other Solutions ===
 You got your list and a general idea of what you can run and what you can't run and at which degree you will be able to use it. If you have something that needs to be run but you can't run, here's a small list of alternatives you can use.
 
-* Look for an alternative. If it's a game I'd say that you should look for games with similar tags in steam. If it's software use something like [http://alternativeto.net/ alternativeto], or just search for ''"<task to achieve> Linux"''.
+* Look for an alternative. If it's a game I'd say that you should look for games with similar tags in steam. If it's software use something like [https://alternativeto.net/ alternativeto], or just search for ''"<task to achieve> Linux"''.
 * Use a windows VM. Useful if the software you want to run is not resource intensive (99% of the time games won't like this, so don't use this for games unless you're going to attempt the GPU passthrough option)
 * Dual boot.
 * GPU passthrough. This is hard. You need to meet a lot of requirements and invest time, but if you can pull it out you can get the best of both worlds. The [https://forum.level1techs.com/tags/passthrough Level1Techs forum] has been one of the driving forces behind using this technology and has a lot of information on the subject. (You can also check out their [https://www.youtube.com/channel/UCOWcZ6Wicl-1N34H0zZe38w Linux Youtube channel])
@@ -208,7 +208,7 @@ Now, if you wanted to use the graphical way, I'd have to post pictures from Ubun
 So what do you do if the software you need isn't in your package manager? The next best thing is to add a 3rd party repository to your package manager. As an (educational) example, let's add Google Chrome. Note, that the following procedure is not recommended for various reasons, including, but not limited to Chrome being considered spyware<ref>https://fossforce.com/2021/10/googles-new-spyware-in-chrome-94/</ref>. UbuntuUpdates.org give the following instructions<ref>https://www.ubuntuupdates.org/ppa/google_chrome</ref>:
 
 <pre>wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-sudo sh -c 'echo &quot;deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main&quot; &gt;&gt; /etc/apt/sources.list.d/google.list'
+sudo sh -c 'echo &quot;deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main&quot; &gt;&gt; /etc/apt/sources.list.d/google.list'
 sudo apt-get update
 sudo apt-get install google-chrome-stable</pre>
 That looks a bit scary, but it's just adding the security key and repository to your system and then installing Google Chrome. You'll want to use a PPA of your software when possible since it will update with the rest of your system.
@@ -244,6 +244,6 @@ When asking about your problems, remember to give as much info as you can. For e
 *Ensure that Vulkan drivers are installed, including the 32-bit drivers
 *For users of older AMD GCN 1 or 2 cards, [https://www.reddit.com/r/linux_gaming/wiki/drivers#wiki_amd_hd_7xxx_and_newer ensure that the AMDGPU kernel driver is used instead of radeon]
 ==The end==
-u/PBLKGodofGrunts put this guide under the [http://www.wtfpl.net/txt/copying/ WTFPL License.] Please attach this license when sharing or modifying this guide. I hope that this is helpful to someone.
+u/PBLKGodofGrunts put this guide under the [https://www.wtfpl.net/txt/copying/ WTFPL License.] Please attach this license when sharing or modifying this guide. I hope that this is helpful to someone.
 
 <references />

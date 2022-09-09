@@ -15,9 +15,9 @@ Generally, the first port of call for problems that you may encounter is the ded
 * [Wine Forums](https://forum.winehq.org/) - Provides support on games run through Wine that may not be covered in the database.
 * [PlayOnLinux Forums](https://www.playonlinux.com/en/forums.html) - Provides support on games run through PlayOnLinux.
 * [Steam for Linux bugtracker](https://github.com/ValveSoftware/steam-for-linux/issues) - Searching for issues posted on Steam or games on Steam may provide solutions.
-* [Steam for Linux General Discussions :: Steam Community](http://steamcommunity.com/app/221410/discussions/) - General discussions and bug reports before Git buckstracker.
-* [Feral Interactive's support site](http://support.feralinteractive.com/en/) - Support on any games that have been ported/published by Feral Interactive.
-* [Aspyr Support](http://support.aspyr.com/) - Support on any games that have been ported/published by Aspyr.
+* [Steam for Linux General Discussions :: Steam Community](https://steamcommunity.com/app/221410/discussions/) - General discussions and bug reports before Git buckstracker.
+* [Feral Interactive's support site](https://support.feralinteractive.com/en/) - Support on any games that have been ported/published by Feral Interactive.
+* [Aspyr Support](https://support.aspyr.com/) - Support on any games that have been ported/published by Aspyr.
 * [Virtual Programming](https://www.vpltd.com/support/) - Support on any games that have been ported/published by Virtual Programming.
 
 
@@ -28,10 +28,10 @@ Generally, the first port of call for problems that you may encounter is the ded
 
 ## General Linux Gaming Links
 
-* [Linux Gamers' FAQ] on Icculus(http://icculus.org/lgfaq/)
+* [Linux Gamers' FAQ] on Icculus(https://icculus.org/lgfaq/)
 * [Linux_Gaming subreddit](https://www.reddit.com/r/linux_gaming/)
 * [Free Steam games](https://www.reddit.com/r/linux_gaming/comments/57j4m1/a_list_of_free_as_in_beer_linux_games_on_steam/) - A list of free (as in beer) Linux games available on Steam
-* [PCGamingWiki](http://pcgamingwiki.com/wiki/) - Multi-OS game database.
+* [PCGamingWiki](https://pcgamingwiki.com/wiki/) - Multi-OS game database.
 * [Libregamewiki](https://libregamewiki.org/) - Free (as in speech) games database.
 * [Linux game database](https://lgdb.org/)
 * [Wine Application Database](https://appdb.winehq.org/) - Holds support information for games that can be run through Wine.
@@ -39,7 +39,7 @@ Generally, the first port of call for problems that you may encounter is the ded
 
 ## Linux games in stores
 
-* [Steam](http://store.steampowered.com/search/?tags=-1&os=linux) - Games available on Steam for Linux/SteamOS
+* [Steam](https://store.steampowered.com/search/?tags=-1&os=linux) - Games available on Steam for Linux/SteamOS
 * [GOG.com](https://www.gog.com/games?system=lin_mint,lin_ubuntu&sort=title&page=1) - Games available on GOG for Linux/SteamOS
 * [Humble Store](https://www.humblebundle.com/store/search/platform/linux) - Games available on The Humble Store for Linux/SteamOS
 * [Itch.io](https://itch.io/games/platform-linux) - Games available on itch.io for Linux/SteamOS

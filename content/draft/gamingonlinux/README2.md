@@ -4,26 +4,26 @@ This is our revolution.
 
 ## Projects
 
-* **[PirateDB](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB)**: Compatibility information for game piracy on Linux
-    * [Whitelist / Flawless](http://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/Whitelist.md)
-    * [Media Foundation Needed](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/Requires%20Media%20Foundation.md)
-    * [Silver Rated Games / Minor tweaks](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/1.Silver)
-    * [Bronze Rated Games / Requires modifications](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/2.Bronze)
-    * [Borked Rated Games / Not working](http://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/3.Borked)
-    * [Crack Scene](http://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Crack_Scene.md)
-    * [Repackers](http://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Repackers.md)
-* **[StellarKey](http://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/1person/StellarKey)**: DLC unlocker for Steam on Linux
-* **[BeginnerInfo](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/BeginnerInfo)**: Information for beginners into game piracy
+* **[PirateDB](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB)**: Compatibility information for game piracy on Linux
+    * [Whitelist / Flawless](https://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/Whitelist.md)
+    * [Media Foundation Needed](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/Requires%20Media%20Foundation.md)
+    * [Silver Rated Games / Minor tweaks](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/1.Silver)
+    * [Bronze Rated Games / Requires modifications](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/2.Bronze)
+    * [Borked Rated Games / Not working](https://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Games/3.Borked)
+    * [Crack Scene](https://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Crack_Scene.md)
+    * [Repackers](https://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/PirateDB/Repackers.md)
+* **[StellarKey](https://www.it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/1person/StellarKey)**: DLC unlocker for Steam on Linux
+* **[BeginnerInfo](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/BeginnerInfo)**: Information for beginners into game piracy
 * **[Game Ownership Network](https://search.melroy.org/)**: You can add the games you own to this database and link them to a way of contacting you instead of the steam profile which is hidden. This enables uploaders to have a network of people that can provide the game files for native games.
 
 ### Tools
 
-* [SquashFS game compression](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/SquashFS/readme.md) - Reduces size of games while being able to play them.
+* [SquashFS game compression](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/SquashFS/readme.md) - Reduces size of games while being able to play them.
 * [protonfit by Fracesco149](https://github.com/Francesco149/protonfit) `GitHub` - Script that serve multiple purposes in running proton with Francesco's ideas.
-* [Runtime-Installer](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/Runtime-Installer) - Steam-Runtime installer for Linux Native games outside of Steam, useful for pirates.
+* [Runtime-Installer](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/Runtime-Installer) - Steam-Runtime installer for Linux Native games outside of Steam, useful for pirates.
 * [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) `GitLab` - Allows you to play steam games without steam.
-* [BottlEye](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/loli/BottlEye) - Bypass for Battleye. (Got removed from Github)
-* [pyUnstub fork (steamstub remover)](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/pyUnstub) - Removes steam stubs from executables.
+* [BottlEye](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/loli/BottlEye) - Bypass for Battleye. (Got removed from Github)
+* [pyUnstub fork (steamstub remover)](https://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/johncena141/Linux_Game_Pirates/src/branch/master/Tools/pyUnstub) - Removes steam stubs from executables.
 
 ### Links to other things we do
 
