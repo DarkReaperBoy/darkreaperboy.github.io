@@ -3,14 +3,14 @@
 * Build Date: August 2015
 * Author: Madeon08
 * Copyright (C) 2015 Madeon08
-* This is a premium product available exclusively here : http://themeforest.net/user/Madeon08/portfolio
+* This is a premium product available exclusively here : https://themeforest.net/user/Madeon08/portfolio
 */
 
 /* ------------------------------------- */
 /* LOVE Text Effect .................... */
 /* ------------------------------------- */
 
-/* Codepen Link : http://codepen.io/wagerfield/pen/wftcE */
+/* Codepen Link : https://codepen.io/wagerfield/pen/wftcE */
 
 $(window).load(function() {
 
