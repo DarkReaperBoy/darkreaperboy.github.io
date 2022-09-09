@@ -23459,12 +23459,6 @@ https://irchighway.net/
 https://mindforge.org/en/
 https://www.gotham.chat/
 https://libera.chat/
-irc://irc.abjects.net/BEAST-XDCC
-irc://irc.irchighway.net/ebooks
-irc://irc.undernet.org/bookz
-irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
-irc://irc.abjects.net/MOVIEGODS
-irc://irc.scenep2p.net/THE.SOURCE
 https://pipewire.org/
 https://www.hirensbootcd.org/
 https://www.hirensbootcd.org/about/
