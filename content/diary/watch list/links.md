@@ -1528,7 +1528,6 @@ https://chartscss.org
 https://chasem.co
 https://chasem.co/notes
 https://chat.jungswtfwgjwile
-https://chat.weboasis.app
 https://chatovod.com
 https://chatpic.org
 https://chatra.io

@@ -23,6 +23,7 @@ https://www.youtube.com/user/penguinz0/ (daily shitposter)
 https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q (Kurzgesagt – In a Nutshell)
 https://www.youtube.com/channel/UCFLFc8Lpbwt4jPtY1_Ai5yA (LMG Clips)
 https://www.youtube.com/channel/UC8LcA3grYZg0GNpxlXh8owg (mario meme)
+https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird authors)
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
