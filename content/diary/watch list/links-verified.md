@@ -23,7 +23,7 @@ https://www.youtube.com/user/penguinz0/ (daily shitposter)
 https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q (Kurzgesagt – In a Nutshell)
 https://www.youtube.com/channel/UCFLFc8Lpbwt4jPtY1_Ai5yA (LMG Clips)
 https://www.youtube.com/channel/UC8LcA3grYZg0GNpxlXh8owg (mario meme)
-https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird authors)
+https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird aut)
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
@@ -56,68 +56,68 @@ https://t.me/awsub
 https://t.me/my_animelist
 https://bia2anime.site
 @AnimeDubbing_gq
-https://animedubbing10.gq/
+https://animedubbing10.gq
 https://mangabaz.ir/
 
 🌐 لیست سایت فیلم و سریال خارجی بدون سانسور (زیرنویس چسبیده، زبان اصلی، دوبله)
-https://9movie.pw/
+https://9movie.pw
 https://t.me/nine9movie
 https://t.me/nine9movie_bot
 
-https://bluemo5.xyz/
+https://bluemo5.xyz
 https://t.me/BlueMoviee_Com
 
-https://golchindownload.site/
+https://golchindownload.site
 https://t.me/mygolchindl
 
-https://sermovie3.online/
+https://sermovie3.online
 https://t.me/Sermoviechannel
 
 
 
-https://filmban2.site/
+https://filmban2.site
 https://t.me/FilmbanOfficial
 
 https://t.me/acemovies
 
 https://mobomovies.space/
 
-https://newalmasmovie3.xyz/
+https://newalmasmovie3.xyz
 https://t.me/almasmoviecom
 
-https://moviecottage1.fun/
+https://moviecottage1.fun
 https://t.me/MovieCottage
 https://t.me/MyMovieCottageBot
 
-https://zedmovie9.xyz/
+https://zedmovie9.xyz
 https://t.me/zedmoviecom
 https://t.me/Zedmoviebot
 
 https://alefmovie.website/
 
-https://aramoviez.ml/
+https://aramoviez.ml
 https://t.me/s/aramoviez
 
 https://www.f2m.space/
 
-https://bia2hd.store/
+https://bia2hd.store
 https://t.me/Bia2hdLink
 
 https://atamovie2.lol/
 
-https://donyayeserial.org/
+https://donyayeserial.org
 https://t.me/donyayeserialtel
 https://t.me/DonyayeSerialBot
 
 
 🌐 نیمه اشتراکی (فقط دوبله هاش رایگان نیستند)
-https://salamdl.rip/
+https://salamdl.rip
 https://t.me/salamdl
 
-https://myhastidl1.cam/
+https://myhastidl1.cam
 https://t.me/my_hastidl
 
-https://avamovie16.xyz/
+https://avamovie16.xyz
 https://t.me/avamovie_ir
 
 🤖 ربات زیرنویس فارسی
@@ -126,6 +126,6 @@ https://t.me/avamovie_ir
 @SubtitleFinderBot
 
 🇮🇷 دانلود فیلم و سریال ایرانی با لینک مستقیم
-https://benameiran.net/
+https://benameiran.net
 https://t.me/bninew1
 
