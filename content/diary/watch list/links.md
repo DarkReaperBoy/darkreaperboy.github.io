@@ -21802,7 +21802,7 @@ https://weboas.is/forum/index.php?topic=4681.0
 https://weboas.is/forum/index.php?topic=5760.0
 https://weboas.is/paste/os8uw71zqn
 https://weboas.is/paste/raw/nerytm28zz
-https://weboasis.app
+/
 https://webopedia.com/TERM/P/proxy_server.html
 https://webp-converter.com
 https://webproxydirectory.com
