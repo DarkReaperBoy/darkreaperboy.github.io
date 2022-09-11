@@ -14,11 +14,11 @@
 {{- partial "head/opengraph/include.html" . -}}
 
 {{- range .AlternativeOutputFormats -}}
-    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{- end -}}
 
 {{ with .Site.Params.favicon }}
-    <link rel="shortcut icon" href="{{ . }}" />
+<link rel="shortcut icon" href="{{ . }}" />
 {{ end }}
 
 {{- template "_internal/google_analytics.html" . -}}

@@ -1,5 +1,5 @@
 <script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
+<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet' />
 <div id="waline" class="waline-container"></div>
 <style>
     .waline-container {
@@ -9,6 +9,7 @@
         padding: var(--card-padding);
         --waline-font-size: var(--article-font-size);
     }
+
     .waline-container .wl-count {
         color: var(--card-text-color-main);
     }
@@ -19,16 +20,20 @@
 {{- $replaceKeys := dict "serverurl" "serverURL" "requiredmeta" "requiredMeta" "wordlimit" "wordLimit" "pagesize" "pageSize" "imageuploader" "imageUploader" "texrenderer" "texRenderer" -}}
 
 {{- range $key, $val := . -}}
-    {{- if $val -}}  
-        {{- $replaceKey := index $replaceKeys $key -}}
-        {{- $k := default $key $replaceKey -}}
+{{- if $val -}}
+{{- $replaceKey := index $replaceKeys $key -}}
+{{- $k := default $key $replaceKey -}}
 
-        {{- $config = merge $config (dict $k $val) -}}
-    {{- end -}}
+{{- $config = merge $config (dict $k $val) -}}
+{{- end -}}
 {{- end -}}
 
 <script>
     /// Waline client configuration see: https://waline.js.org/en/reference/client.html
-    Waline.init({{ $config | jsonify | safeJS }});
+    Waline.init({
+        {
+            $config | jsonify | safeJS
+        }
+    });
 </script>
 {{- end -}}

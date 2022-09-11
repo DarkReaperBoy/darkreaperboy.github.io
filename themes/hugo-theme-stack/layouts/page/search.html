@@ -1,11 +1,12 @@
 {{ define "body-class" }}template-search{{ end }}
 {{ define "head" }}
-    {{- with .OutputFormats.Get "json" -}} 
-        <link rel="preload" href="{{ .Permalink }}" as="fetch" crossorigin="anonymous">
-    {{- end -}}
+{{- with .OutputFormats.Get "json" -}}
+<link rel="preload" href="{{ .Permalink }}" as="fetch" crossorigin="anonymous">
+{{- end -}}
 {{ end }}
 {{ define "main" }}
-<form action="{{ .Permalink }}" class="search-form"{{ with .OutputFormats.Get "json" -}} data-json="{{ .Permalink }}"{{- end }}>
+<form action="{{ .Permalink }}" class="search-form" {{ with .OutputFormats.Get "json" -}} data-json="{{ .Permalink }}"
+    {{- end }}>
     <p>
         <label>{{ T "search.title" }}</label>
         <input name="keyword" placeholder="{{ T `search.placeholder` }}" />

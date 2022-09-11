@@ -16,7 +16,7 @@
 }
 
 #dsqjs .dsqjs-hide {
-    display: none!important
+    display: none !important
 }
 
 #dsqjs .dsqjs-disabled {
@@ -46,7 +46,8 @@
     font-weight: 700
 }
 
-#dsqjs .dsqjs-clearfix:after,#dsqjs .dsqjs-clearfix:before {
+#dsqjs .dsqjs-clearfix:after,
+#dsqjs .dsqjs-clearfix:before {
     display: table;
     content: "";
     line-height: 0;
@@ -59,7 +60,8 @@
     border-bottom: 2px solid #e7e9ee
 }
 
-#dsqjs ol,#dsqjs ul {
+#dsqjs ol,
+#dsqjs ul {
     list-style: none;
     list-style-type: none
 }
@@ -100,7 +102,7 @@
     content: " ";
     display: block;
     height: 2px;
-    background-color: #076dd0!important;
+    background-color: #076dd0 !important;
     position: absolute;
     bottom: -5px;
     left: 0;
@@ -289,7 +291,7 @@
 
 @media (min-width: 768px) {
     #dsqjs .dsqjs-post-list.dsqjs-children>li {
-        margin-left:48px
+        margin-left: 48px
     }
 
     #dsqjs .dsqjs-post-list .dsqjs-post-avatar {
@@ -303,19 +305,19 @@
 
 @media (min-width: 1024px) {
     #dsqjs .dsqjs-post-list.dsqjs-children>li {
-        margin-left:60px
+        margin-left: 60px
     }
 }
 
-:root[data-scheme="light"]  {
+:root[data-scheme="light"] {
     #dsqjs .dsqjs-disqus-logo {
         background-position: 0 -7px;
     }
 }
 
-:root[data-scheme="dark"]  {
+:root[data-scheme="dark"] {
     #dsqjs {
-        --t-s: rgba(255,255,255,0.9);
+        --t-s: rgba(255, 255, 255, 0.9);
         --alt: #3e4b5e;
         --link-hover: #47a2e0;
         --hover-bg: #3e4b5e;
@@ -335,11 +337,11 @@
         --hlv: #d19a66;
         --bg: #181c27;
         --main: #252d38;
-        --t: rgba(255,255,255,0.86);
-        --t-l: rgba(255,255,255,0.66);
+        --t: rgba(255, 255, 255, 0.86);
+        --t-l: rgba(255, 255, 255, 0.66);
         --logo: #fff;
         --link: #38a3fd;
-        --title: rgba(255,255,255,0.92);
+        --title: rgba(255, 255, 255, 0.92);
         --fab: #364151;
         --shadow: none;
     }
@@ -353,10 +355,11 @@
     }
 
     #dsqjs a {
-        color:var(--link)
+        color: var(--link)
     }
 
-    #dsqjs a:focus,#dsqjs a:hover {
+    #dsqjs a:focus,
+    #dsqjs a:hover {
         color: var(--link-hover)
     }
 
@@ -364,11 +367,16 @@
         background-position: 0 -24px;
     }
 
-    #dsqjs .dsqjs-nav,#dsqjs footer {
+    #dsqjs .dsqjs-nav,
+    #dsqjs footer {
         border-color: var(--hlc)
     }
 
-    #dsqjs .dsqjs-load-more,#dsqjs .dsqjs-load-more:hover,#dsqjs .dsqjs-nav-tab,#dsqjs .dsqjs-no-comment,#dsqjs .dsqjs-post-content {
+    #dsqjs .dsqjs-load-more,
+    #dsqjs .dsqjs-load-more:hover,
+    #dsqjs .dsqjs-nav-tab,
+    #dsqjs .dsqjs-no-comment,
+    #dsqjs .dsqjs-post-content {
         color: var(--t)
     }
 
@@ -384,7 +392,8 @@
         background-color: #2e9fff
     }
 
-    #dsqjs .dsqjs-footer,#dsqjs .dsqjs-meta {
+    #dsqjs .dsqjs-footer,
+    #dsqjs .dsqjs-meta {
         color: var(--t-l)
     }
 

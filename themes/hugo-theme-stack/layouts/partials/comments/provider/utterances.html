@@ -1,12 +1,6 @@
-<script src="https://utteranc.es/client.js" 
-        repo="{{ .Site.Params.comments.utterances.repo }}"
-        issue-term="{{ .Site.Params.comments.utterances.issueTerm }}"
-        {{ with .Site.Params.comments.utterances.label }}
-        label="{{ . }}"
-        {{ end }}
-        crossorigin="anonymous"
-        async
-        >
+<script src="https://utteranc.es/client.js" repo="{{ .Site.Params.comments.utterances.repo }}"
+    issue-term="{{ .Site.Params.comments.utterances.issueTerm }}" {{ with .Site.Params.comments.utterances.label }}
+    label="{{ . }}" {{ end }} crossorigin="anonymous" async>
 </script>
 
 <style>
@@ -19,8 +13,7 @@
     function setUtterancesTheme(theme) {
         let utterances = document.querySelector('.utterances iframe');
         if (utterances) {
-            utterances.contentWindow.postMessage(
-                {
+            utterances.contentWindow.postMessage({
                     type: 'set-theme',
                     theme: `github-${theme}`
                 },

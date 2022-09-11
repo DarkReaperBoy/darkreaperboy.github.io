@@ -2,11 +2,11 @@
 {{ $description := .Site.Params.sidebar.subtitle }}
 
 {{ if .Description }}
-    <!-- Page description exists -->
-    {{ $description = .Description }}
+<!-- Page description exists -->
+{{ $description = .Description }}
 {{ else if .IsPage }}
-    <!-- Use page summary -->
-    {{ $description = .Summary }}
+<!-- Use page summary -->
+{{ $description = .Summary }}
 {{ end }}
 
 {{ return ($description | plainify)}}

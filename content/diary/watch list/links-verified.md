@@ -28,6 +28,7 @@ https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird aut)
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
 https://www.youtube.com/watch?v=ynbgMKclWWc (about marxism)
+https://www.youtube.com/watch?v=7AMfajsjn0I (You Should Pirate Video Games | A Video Essay)
 
 github:
 https://github.com/topics/knowledge-base?o=desc&s=stars (notion alternatives)

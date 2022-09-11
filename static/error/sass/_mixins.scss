@@ -1,10 +1,11 @@
 // WebKit font-smoothing
 // Values: none, antialiased (default), subpixel-antialiased
 @mixin font-smoothing($value: on) {
-    @if $value == on {
+    @if $value==on {
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     }
+
     @else {
         -webkit-font-smoothing: subpixel-antialiased;
         -moz-osx-font-smoothing: auto;
@@ -21,9 +22,9 @@
 }
 
 @mixin box-shadow($params) {
-  -webkit-box-shadow: $params;
-     -moz-box-shadow: $params;
-          box-shadow: $params;
+    -webkit-box-shadow: $params;
+    -moz-box-shadow: $params;
+    box-shadow: $params;
 }
 
 // Cross-browser mixins border-radius

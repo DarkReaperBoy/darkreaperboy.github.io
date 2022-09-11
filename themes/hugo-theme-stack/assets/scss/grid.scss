@@ -62,6 +62,7 @@
 
     &.on-phone--column {
         flex-direction: column;
+
         @include respond(md) {
             flex-direction: unset;
         }
@@ -91,7 +92,7 @@ main.main {
     padding: 0 15px;
     gap: var(--section-separation);
     padding-top: var(--main-top-padding);
-    
+
     @include respond(md) {
         padding: 0 20px;
     }

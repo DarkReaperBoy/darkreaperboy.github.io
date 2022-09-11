@@ -3,58 +3,58 @@
 {{ $imageValue := index .Context.Params $imageField }}
 
 {{ if $imageValue }}
-    <!-- If page has `image` field set -->
-    {{ $result = merge $result (dict "exists" true) }}
-    {{ $url := urls.Parse $imageValue }}
+<!-- If page has `image` field set -->
+{{ $result = merge $result (dict "exists" true) }}
+{{ $url := urls.Parse $imageValue }}
 
-    {{ if or (eq $url.Scheme "http") (eq $url.Scheme "https") }}
-        <!-- Is an external image -->
-        {{ $result = merge $result (dict "permalink" $imageValue) }}
-    {{ else }}
-        {{ $pageResourceImage := .Context.Resources.GetMatch (printf "%s" ($imageValue | safeURL)) }}
-        
-        {{ if $pageResourceImage }}
-            <!-- If image is found under page bundle -->
-            {{ $result = merge $result (dict "permalink" $pageResourceImage.RelPermalink) }}
+{{ if or (eq $url.Scheme "http") (eq $url.Scheme "https") }}
+<!-- Is an external image -->
+{{ $result = merge $result (dict "permalink" $imageValue) }}
+{{ else }}
+{{ $pageResourceImage := .Context.Resources.GetMatch (printf "%s" ($imageValue | safeURL)) }}
 
-            <!-- Disable SVG image processing, not supported by Hugo -->
-            {{ if ne (path.Ext $imageValue) ".svg" }}
-                {{ $result = merge $result (dict "resource" $pageResourceImage) }}
-            {{ end }}
-        {{ else }}
-            <!-- Can not find the image under page bundle. Could be a relative linked image -->
-            {{ $result = merge $result (dict "permalink" (relURL $imageValue)) }}
-        {{ end }}
+{{ if $pageResourceImage }}
+<!-- If image is found under page bundle -->
+{{ $result = merge $result (dict "permalink" $pageResourceImage.RelPermalink) }}
 
-    {{ end }}
+<!-- Disable SVG image processing, not supported by Hugo -->
+{{ if ne (path.Ext $imageValue) ".svg" }}
+{{ $result = merge $result (dict "resource" $pageResourceImage) }}
+{{ end }}
+{{ else }}
+<!-- Can not find the image under page bundle. Could be a relative linked image -->
+{{ $result = merge $result (dict "permalink" (relURL $imageValue)) }}
+{{ end }}
+
+{{ end }}
 
 {{ else if and (ne .Type nil) (index .Context.Site.Params.defaultImage .Type) }}
-    <!-- Type arg is set, check for defaultImage setting -->
-    {{ $defaultImageSetting := index .Context.Site.Params.defaultImage .Type }}
+<!-- Type arg is set, check for defaultImage setting -->
+{{ $defaultImageSetting := index .Context.Site.Params.defaultImage .Type }}
 
-    {{ if $defaultImageSetting.enabled }}
-        {{ $result = merge $result (dict "isDefault" true) }}
-        {{ $result = merge $result (dict "exists" true) }}
+{{ if $defaultImageSetting.enabled }}
+{{ $result = merge $result (dict "isDefault" true) }}
+{{ $result = merge $result (dict "exists" true) }}
 
-        {{ if $defaultImageSetting.local }}
-            {{ $siteResourceImage := resources.GetMatch (printf "%s" ($defaultImageSetting.src | safeURL)) }}
+{{ if $defaultImageSetting.local }}
+{{ $siteResourceImage := resources.GetMatch (printf "%s" ($defaultImageSetting.src | safeURL)) }}
 
-            {{ if $siteResourceImage }}
-                <!-- Try search image under site's assets folder -->
-                {{ $result = merge $result (dict "permalink" $siteResourceImage.RelPermalink) }}
-                {{ $result = merge $result (dict "resource" $siteResourceImage) }}
-            {{ else }}
-                <!-- Can not find the image -->
-                {{ errorf "Failed loading image: %q" $defaultImageSetting.src }}
-                {{ $result = merge $result (dict "exists" false) }}
-            {{ end }}
+{{ if $siteResourceImage }}
+<!-- Try search image under site's assets folder -->
+{{ $result = merge $result (dict "permalink" $siteResourceImage.RelPermalink) }}
+{{ $result = merge $result (dict "resource" $siteResourceImage) }}
+{{ else }}
+<!-- Can not find the image -->
+{{ errorf "Failed loading image: %q" $defaultImageSetting.src }}
+{{ $result = merge $result (dict "exists" false) }}
+{{ end }}
 
-        {{ else }}
-            <!-- External image -->
-            {{ $result = merge $result (dict "permalink" (relURL $defaultImageSetting.src)) }}
-        {{ end }}
-        
-    {{ end }}
+{{ else }}
+<!-- External image -->
+{{ $result = merge $result (dict "permalink" (relURL $defaultImageSetting.src)) }}
+{{ end }}
+
+{{ end }}
 
 {{ end }}
 

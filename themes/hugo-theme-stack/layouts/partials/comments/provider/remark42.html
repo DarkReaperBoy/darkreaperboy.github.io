@@ -6,16 +6,25 @@
         site_id: '{{ .site }}',
         components: ['embed'],
         url: "{{ $.Permalink }}",
-        max_shown_comments: {{ default 15 .max_shown_comments }},
+        max_shown_comments: {
+            {
+                default 15.max_shown_comments
+            }
+        },
         theme: document.documentElement.dataset.scheme,
         page_title: '{{ $.Title }}',
         locale: '{{ default "en" .locale }}',
-        show_email_subscription: {{ default true .show_email_subscription }}
+        show_email_subscription: {
+            {
+                default true.show_email_subscription
+            }
+        }
     };
 
     (function (c) {
         for (var i = 0; i < c.length; i++) {
-            var d = document, s = d.createElement('script');
+            var d = document,
+                s = d.createElement('script');
             s.src = remark_config.host + '/web/' + c[i] + '.js';
             s.defer = true;
             (d.head || d.body).appendChild(s);

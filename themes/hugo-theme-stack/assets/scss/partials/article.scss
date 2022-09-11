@@ -78,6 +78,7 @@
     line-height: 1.5;
     margin: 0;
     font-size: 1.75rem;
+
     @include respond(xl) {
         font-size: 2rem;
     }
@@ -110,7 +111,7 @@
         color: var(--card-text-color-tertiary);
     }
 
-    & > div {
+    &>div {
         display: inline-flex;
         align-items: center;
         gap: 15px;
@@ -150,7 +151,7 @@
     }
 
     article {
-        & > a {
+        &>a {
             display: flex;
             align-items: center;
             padding: var(--small-card-padding);
