@@ -68,12 +68,10 @@ hr {
   margin: 5px;
   border: 0;
   height: 1px;
-  background-image: linear-gradient(
-    to right,
-    rgba(0, 0, 0, 0),
-    rgba(0, 0, 0, 0.75),
-    rgba(0, 0, 0, 0)
-  );
+  background-image: linear-gradient(to right,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.75),
+      rgba(0, 0, 0, 0));
 }
 
 button::-moz-focus-inner {
@@ -194,7 +192,7 @@ button::-moz-focus-inner {
   fill: #ffd200;
 }
 
-.button > .button-content {
+.button>.button-content {
   text-align: right;
   display: block;
   position: absolute;
@@ -203,7 +201,7 @@ button::-moz-focus-inner {
   padding: 13px;
 }
 
-.button-container.disable .button > .button-content {
+.button-container.disable .button>.button-content {
   opacity: 0.2 !important;
 }
 
@@ -242,22 +240,22 @@ button::-moz-focus-inner {
   }
 }
 
-.button-container.expanding-down .button > .button-content {
+.button-container.expanding-down .button>.button-content {
   transition: 0.05s cubic-bezier(0.4, 0, 0.2, 1) 0.05s;
 }
 
-.button-container.expanding-down:not(.disable):hover .button > .button-content {
+.button-container.expanding-down:not(.disable):hover .button>.button-content {
   opacity: 0;
   visibility: hidden;
   transition: 0.05s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.button-container.expanding-down .button > .button-expanded-content {
+.button-container.expanding-down .button>.button-expanded-content {
   opacity: 0;
   visibility: hidden;
 }
 
-.button-container.expanding-down:not(.disable):hover .button > .button-expanded-content {
+.button-container.expanding-down:not(.disable):hover .button>.button-expanded-content {
   opacity: 1;
   visibility: visible;
   transition: 0.05s cubic-bezier(0.4, 0, 0.2, 1) 0.05s;
@@ -463,6 +461,7 @@ button::-moz-focus-inner {
   width: 250px;
   display: inline-block;
 }
+
 .tooltipwrap {
   position: absolute;
   visibility: hidden;
@@ -671,69 +670,70 @@ button::-moz-focus-inner {
   transition-delay: 0.1s;
 }
 
-#searchLinkHelp {	
-  max-height: 0;	
-  margin-top: 6px;	
-  overflow: hidden;	
-  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;	
-  -webkit-transition-delay: 0.1s;	
-  transition-delay: 0.1s;	
-}	
-	
-.input-active #searchHelp {	
-  max-height: 1000px;	
-  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;	
-  -webkit-transition-delay: 0.1s;	
-  transition-delay: 0.1s;	
-}	
-.input-active #searchLinkHelp {	
-  max-height: 1000px;	
-  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;	
-  -webkit-transition-delay: 0.1s;	
-  transition-delay: 0.1s;	
-}	
-	
-.help-list {	
-  font-size: 1.4em;	
-  background-color: #1f2326;	
+#searchLinkHelp {
+  max-height: 0;
+  margin-top: 6px;
+  overflow: hidden;
+  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;
+  -webkit-transition-delay: 0.1s;
+  transition-delay: 0.1s;
 }
-	
-.searchSources {	
-  font-size: 1.1em;	
-  padding: 5px;	
-  font-weight: 500;	
-  color: #a7b3b9;	
-}	
-	
+
+.input-active #searchHelp {
+  max-height: 1000px;
+  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;
+  -webkit-transition-delay: 0.1s;
+  transition-delay: 0.1s;
+}
+
+.input-active #searchLinkHelp {
+  max-height: 1000px;
+  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s;
+  -webkit-transition-delay: 0.1s;
+  transition-delay: 0.1s;
+}
+
+.help-list {
+  font-size: 1.4em;
+  background-color: #1f2326;
+}
+
+.searchSources {
+  font-size: 1.1em;
+  padding: 5px;
+  font-weight: 500;
+  color: #a7b3b9;
+}
+
 .selectedResult {
   background-color: rgb(95, 95, 95) !important;
-}	
+}
 
-.help-list span.selected {	
-  background-color: black !important;	
-  color: white;	
-  font-weight: bold;	
-}	
-	
-.help-list span {	
-  display: inline-block;	
-  margin-right: 10px;	
-  padding-left: 10px;	
-  padding-top: 0px;	
-  padding-bottom: 1px;	
-  width: 25px;	
-  background-color: #1a1d1f;	
-}	
-	
-.help-list2 span {	
-  display: inline-block;	
-  margin-right: 10px;	
-  padding-left: 10px;	
-  padding-top: 0px;	
-  padding-bottom: 1px;	
-  width: auto;	
-  background-color: transparent;	
-  color: #f5f5f5ad;	
+.help-list span.selected {
+  background-color: black !important;
+  color: white;
+  font-weight: bold;
+}
+
+.help-list span {
+  display: inline-block;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+  width: 25px;
+  background-color: #1a1d1f;
+}
+
+.help-list2 span {
+  display: inline-block;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+  width: auto;
+  background-color: transparent;
+  color: #f5f5f5ad;
 }
 
 .sidenav {
