@@ -3,8 +3,13 @@ title: "links"
 draft: false
 ---
 
-to read blogs
+to read
 https://www.ventoy.net/en/plugin_vhdboot.html
+https://news.ycombinator.com/item?id=32835966
+https://github.com/search?o=desc&q=stable+diffusion&s=stars&type=Repositories
+https://news.ycombinator.com/item?id=32780665
+https://github.com/hanzala123/arch2appimage
+
 
 music:
 https://www.youtube.com/watch?v=AV7QjFdNkUk
@@ -24,11 +29,17 @@ https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q (Kurzgesagt – In a Nu
 https://www.youtube.com/channel/UCFLFc8Lpbwt4jPtY1_Ai5yA (LMG Clips)
 https://www.youtube.com/channel/UC8LcA3grYZg0GNpxlXh8owg (mario meme)
 https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird aut)
+https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA (anti game publish)
+https://www.youtube.com/channel/UCqTHx0ObkFZ97KO2SWUuz9w (art work review)
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
 https://www.youtube.com/watch?v=ynbgMKclWWc (about marxism)
 https://www.youtube.com/watch?v=7AMfajsjn0I (You Should Pirate Video Games | A Video Essay)
+https://www.youtube.com/watch?v=2sFrG02xpAw (The Decline of Gaming)
+https://www.youtube.com/watch?v=bqldfK-SJd4 (The Decline of Xbox)
+https://www.youtube.com/watch?v=AGPcOlGbOKM (the art of being alone but not lonely)
+https://www.youtube.com/watch?v=zZF91H1JONc (firework)
 
 github:
 https://github.com/topics/knowledge-base?o=desc&s=stars (notion alternatives)

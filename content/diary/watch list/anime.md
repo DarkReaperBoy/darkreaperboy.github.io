@@ -3,8 +3,7 @@ title: "anime"
 draft: false
 ---
 
-[https://wikiless.tiekoetter.com/wiki/List_of_Studio_Ghibli_works](https://wikiless.tiekoetter.com/wiki/List_of_Studio_Ghibli_works)
-
+https://wikiless.tiekoetter.com/wiki/List_of_Studio_Ghibli_works
 The Fate Series (all ive read/watch)
 Kara no Kyoukai
 Berserk

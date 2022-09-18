@@ -2,6 +2,6 @@
 title: "movie"
 draft: false
 ---
-batman
 
-
+Hitoshi Ozawa
+Riki Takeuchi
