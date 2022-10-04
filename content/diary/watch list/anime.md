@@ -3,6 +3,9 @@ title: "anime"
 draft: false
 ---
 
+‍‍‍‍```
+tekken
+cyberpunk
 https://wikiless.tiekoetter.com/wiki/List_of_Studio_Ghibli_works
 The Fate Series (all ive read/watch)
 Kara no Kyoukai
@@ -11,6 +14,17 @@ Jujutsu Kaisen/SAO
 Steins; Gate
 Monogatari
 Jojos
+world the abis 
+blood c
+when they cry
+devilman crybaby
+gantz
+berserk
+elfen lied
+kamisami kiss
+ninja scroll
+parasyte
+hellsing
 
 ```markdown
 Anehame: Ore no Hatsukoi ga Jisshi na Wake ga Nai
@@ -140,4 +154,5 @@ Yakusoku no Neverland
 Date a live
 Bleach
 Corpse party
+```
 ```

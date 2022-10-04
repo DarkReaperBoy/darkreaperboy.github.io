@@ -9,7 +9,37 @@ https://news.ycombinator.com/item?id=32835966
 https://github.com/search?o=desc&q=stable+diffusion&s=stars&type=Repositories
 https://news.ycombinator.com/item?id=32780665
 https://github.com/hanzala123/arch2appimage
+https://gist.github.com/Misairu-G/616f7b2756c488148b7309addc940b28#some-tldr-about-the-idea-behind
 
+
+stable diffusion:
+https://www.aidemos.info/stable-diffusion-prompt-tricks/
+https://www.unite.ai/how-stable-diffusion-could-develop-as-a-mainstream-consumer-product/
+https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data
+https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/
+https://opensea.io/collection/stable-diffusion-prompts
+https://betalist.com/startups/prompthero
+https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
+https://tangledtech.com/artificial-intelligence-ai/3-simple-ways-to-run-stable-diffusion-online-for-free/
+https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/
+https://www.designernews.co/stories/126549-stable-diffusion-prompt-tricks
+https://pharmapsychotic.com/tools.html
+https://stablediffusion.fr/
+https://decentralizedcreator.com/50-text-to-image-prompts-for-ai-art-generator-stable-diffusion-a-visual-treat-inside/
+https://scribe.nixnet.services/how-to-fine-tune-stable-diffusion-using-textual-inversion-b995d7ecc095
+https://strikingloo.github.io/stable-diffusion-vs-dalle-2
+https://replicate.com/stability-ai/stable-diffusion/examples
+https://www.howtogeek.com/830179/how-to-run-stable-diffusion-on-your-pc-to-generate-ai-images/
+https://reddit.stuehieyr.com/r/StableDiffusion/comments/xjqzdt/list_of_stable_diffusion_systems_part_3/
+https://github.com/kaikalii/stable-diffusion-artists
+https://github.com/Dalabad/stable-diffusion-prompt-templates
+https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
+https://scribe.nixnet.services/nightcafe-creator/stable-diffusion-tutorial-how-to-use-stable-diffusion-157785632eb3
+https://stackdiary.com/stable-diffusion-resources/
+https://www.urania.ai/top-sd-artists
+https://lexica.art/
+https://www.krea.ai/?q=gta+v
+https://lexica.art/
 
 music:
 https://www.youtube.com/watch?v=AV7QjFdNkUk
@@ -31,6 +61,7 @@ https://www.youtube.com/channel/UC8LcA3grYZg0GNpxlXh8owg (mario meme)
 https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird aut)
 https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA (anti game publish)
 https://www.youtube.com/channel/UCqTHx0ObkFZ97KO2SWUuz9w (art work review)
+https://www.youtube.com/channel/UClrQ5bB3n3VMbfcqwBA88hA (console drm)
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
