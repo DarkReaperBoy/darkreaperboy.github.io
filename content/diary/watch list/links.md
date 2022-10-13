@@ -3,7 +3,12 @@ title: "links"
 draft: false
 ---
 
+https://www.youtube.com/channel/UChWB95_-n9rUc3H9srsn9bQ
+https://t.me/learnfiles_box/1
+https://www.youtube.com/channel/UChWB95_-n9rUc3H9srsn9bQ
 https://027ppt.com
+https://huggingface.co/
+https://wannabe1337.xyz/text-ipobfuscator
 https://0day.rocks
 https://0day.today
 https://0daydown.com
@@ -369,8 +374,8 @@ https://amazingeducationalresources.com
 https://amazon.com
 https://amazon.com/Arctic-Thermal-Efficient-Conductivity-Handling/dp/B00UYTTXSM
 https://amazon.com/ODROID-Intel-Quad-core-Processor-Seperately/dp/B07LBB17P2
-https://amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X
-https://amazon.in/Learning-Pentesting-Android-Devices-Aditya-ebook/dp/B00JAAW0ZY
+https://amazon.in/-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X
+https://amazon.in/Learning-Pentesting--Devices-Aditya-ebook/dp/B00JAAW0ZY
 https://amp.rs
 https://amplifi.com/alien
 https://analysis.avira.com/en/submit
@@ -3366,7 +3371,7 @@ https://en.fromsmash.com
 https://en.jingos.com
 https://en.kali.tools
 https://en.louhlbgyupgktsw
-https://en.m.wikipedia.org/wiki/Android-x86
+https://en.m.wikipedia.org/wiki/-x86
 https://en.m.wikipedia.org/wiki/Free_and_open-source_software
 https://en.m.wikipedia.org/wiki/GNU
 https://en.m.wikipedia.org/wiki/Linux
@@ -3395,7 +3400,7 @@ https://en.softonic.com/s/socks-proxy-list
 https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3
 https://en.wikibooks.org/wiki/PHP_Programming
 https://en.wikipedia.org/wiki/Agnosticism
-https://en.wikipedia.org/wiki/Android_(operating_system)
+https://en.wikipedia.org/wiki/_(operating_system)
 https://en.wikipedia.org/wiki/Argon2
 https://en.wikipedia.org/wiki/COINTELPRO
 https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software
@@ -3805,7 +3810,7 @@ https://fidibo.com/book/107556
 https://figma.com
 https://figmachine.com
 https://fildo.net
-https://fildo.net/Android
+https://fildo.net/
 https://file-debrid.com
 https://file-debrid.com/index.php
 https://file-extension.net
@@ -4646,7 +4651,7 @@ https://github.com/ActivityWatch/activitywatch
 https://github.com/Adamantcheese/Kuroba
 https://github.com/AdithyanNellickal/magneto-python-aria
 https://github.com/Aegisub/Aegisub
-https://github.com/AeonLucid/AndroidNativeEmu
+https://github.com/AeonLucid/NativeEmu
 https://github.com/AfoninZ/MultiMC5-Cracked
 https://github.com/AhmadRafiee/Docker_training_with_DockerMe
 https://github.com/Ahmdrza/detect-browser
@@ -4694,7 +4699,7 @@ https://github.com/Athou/commafeed
 https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks
 https://github.com/AviKKi/Corona-Freebies-List
 https://github.com/Awesome-Windows/Awesome/blob/master/README.md
-https://github.com/B3nac/Android-Reports-and-Resources
+https://github.com/B3nac/-Reports-and-Resources
 https://github.com/BELGRADE-OUTLAW/SCRIMTEC
 https://github.com/BHSPitMonkey/ninjam-js
 https://github.com/BLAKE3-team/BLAKE3
@@ -4775,7 +4780,7 @@ https://github.com/EionRobb/purple-rocketchat
 https://github.com/EleutherAI/gpt-neo
 https://github.com/ElevenPaths/FOCA
 https://github.com/Eloston/ungoogled-chromium/blob/master/flags.gn
-https://github.com/EmbeddedAndroid/linux-eve
+https://github.com/Embedded/linux-eve
 https://github.com/EmilioBarradas/tiktok-app-api
 https://github.com/Empornium/Luminance
 https://github.com/Empornium/Radiance
@@ -4854,7 +4859,7 @@ https://github.com/HashPals/Name-That-Hash
 https://github.com/Hashirama/OFDL
 https://github.com/Helias/EPUB-to-PDF
 https://github.com/Hellowlol/HTPC-Manager
-https://github.com/Hengle/DeepNewdsForAndroid
+https://github.com/Hengle/DeepNewdsFor
 https://github.com/HenryQW/Awesome-TTRSS
 https://github.com/HirbodBehnam/MTProtoProxyInstaller
 https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer
@@ -4932,7 +4937,7 @@ https://github.com/Kkevsterrr/geneva
 https://github.com/Knallli/lolisafe
 https://github.com/KoalaBear84/OpenDirectoryDownloader/releases
 https://github.com/Kombustor/rss-fulltext-proxy
-https://github.com/Kr328/ClashForAndroid/releases
+https://github.com/Kr328/ClashFor/releases
 https://github.com/Kshitijchoudhry/aria-telegram-mirror-bot
 https://github.com/KusakabeShi/free365
 https://github.com/Kyubyong/dc_tts
@@ -5669,7 +5674,7 @@ https://github.com/diegomura/react-pdf
 https://github.com/digimezzo/dopamine
 https://github.com/digimezzo/dopamine-windows
 https://github.com/dimitrov-adrian/RcloneTray
-https://github.com/dineshshetty/Android-InsecureBankv2
+https://github.com/dineshshetty/-InsecureBankv2
 https://github.com/dineshshetty/android-insecurebankv2
 https://github.com/dionach/cmsmap
 https://github.com/djerfy/docker-rutorrent
@@ -5783,7 +5788,7 @@ https://github.com/farag2/Sophia-Script-for-Windows/releases/download/5.12.3/Sop
 https://github.com/farag2/windows-10-sophia-script
 https://github.com/farhad-fahim/init/releases/download/ShadowSocks/AzadNet.yml
 https://github.com/farhad-fahim/init/releases/download/shadowsocks/azadnet.yml
-https://github.com/fast-geek/Android-Tool/releases
+https://github.com/fast-geek/-Tool/releases
 https://github.com/fast-geek/android-tool/releases
 https://github.com/fastogt/fastocloud
 https://github.com/fastogt/iptv_admin
@@ -6269,7 +6274,7 @@ https://github.com/mTvare6/hello-world.rs
 https://github.com/machinegunnur/gog-games
 https://github.com/mackey-255/goodbyecatpcha
 https://github.com/macr0dev/audiobooks.bundle
-https://github.com/maddiestone/AndroidAppRE
+https://github.com/maddiestone/AppRE
 https://github.com/madler/zlib
 https://github.com/maduce/fosscad-repo
 https://github.com/major/MySQLTuner-perl
@@ -10694,7 +10699,7 @@ https://pcgamer.com/gigaleak-of-alleged-nintendo-source-code-includes-major-game
 https://pcgamestorrents.com
 https://pcgamingwiki.com/wiki/Home
 https://pcgamingwiki.com/wiki/Linux
-https://pcgamingwiki.com/wiki/Windows_Subsystem_for_Android
+https://pcgamingwiki.com/wiki/Windows_Subsystem_for_
 https://pcgamingwiki.com/wiki/home
 https://pcgamingwiki.com/wiki/windows_subsystem_for_android
 https://pcloud.com/10
@@ -11515,7 +11520,7 @@ https://reddit.com/r/Aggregat0r
 https://reddit.com/r/Amiibomb/comments/5ywlol/howto_the_easy_guide_to_making_your_own_amiibo
 https://reddit.com/r/Amiibomb/comments/frkn07/ramiibomb_faq
 https://reddit.com/r/AmongUs
-https://reddit.com/r/Android
+https://reddit.com/r/
 https://reddit.com/r/Animemes
 https://reddit.com/r/AskHistorians
 https://reddit.com/r/AskNetsec
@@ -13539,7 +13544,7 @@ https://t.me/Amozesh_4u
 https://t.me/An0nym0us_Helpers_bot
 https://t.me/An_Abandoned_Forest
 https://t.me/Anaconda_All_Movies_InHindi
-https://t.me/AndroidModsApp
+https://t.me/ModsApp
 https://t.me/AndyRobot
 https://t.me/AniPlus
 https://t.me/AnimWorldRaw
@@ -13577,7 +13582,7 @@ https://t.me/Apkclub
 https://t.me/AppModders
 https://t.me/App_MILAD
 https://t.me/Appleseed1A
-https://t.me/ApplicazioniAndroid
+https://t.me/Applicazioni
 https://t.me/Apps_Full
 https://t.me/Apptop10
 https://t.me/Arabi_10_11_12
@@ -15034,7 +15039,7 @@ https://t.me/Surfshark_bot
 https://t.me/SurrealMind
 https://t.me/SystemMusicGp
 https://t.me/TANZADYAN2
-https://t.me/TC_Android
+https://t.me/TC_
 https://t.me/TEDPersianSubtitle
 https://t.me/TGBot_List
 https://t.me/TGBot_List/117
@@ -15262,7 +15267,7 @@ https://t.me/WikipediaPDF_bot
 https://t.me/WildHackTM
 https://t.me/WinDroidUploads
 https://t.me/WinForm
-https://t.me/WindowsAndroid
+https://t.me/Windows
 https://t.me/WinigamesBot
 https://t.me/WiseInfoBot
 https://t.me/Womens_Mag
@@ -17239,7 +17244,7 @@ https://t.me/forush_robot
 https://t.me/forwardtagremover_bot
 https://t.me/forwardtagremover_robot
 https://t.me/foryatepezeshki
-https://t.me/foss_Android
+https://t.me/foss_
 https://t.me/foss_android
 https://t.me/foss_club
 https://t.me/foss_desktop
@@ -22560,7 +22565,7 @@ https://technmind.com/ccgen
 https://technologyreview.com
 https://technologyreview.com/2020/08/30/1007786/elon-musks-neuralink-demo-update-neuroscience-theater
 https://technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet
-https://techotopia.com/index.php/Android_4_App_Development_Essentials
+https://techotopia.com/index.php/_4_App_Development_Essentials
 https://techradar.com
 https://techrepublic.com
 https://techrepublic.com/article/how-to-enable-tcp-bbr-to-improve-network-speed-on-linux
@@ -24612,7 +24617,7 @@ https://youtu.be/aKG3INk5fmw
 https://youtu.be/aMtXFPubv6s
 https://youtu.be/bKgf5PaBzyg
 https://youtu.be/byFNAB4yE20
-https://youtu.be/c/AndroidAppSec/videos
+https://youtu.be/c/AppSec/videos
 https://youtu.be/c/DharMannOfficial
 https://youtu.be/c/GHOSTSPECTRE
 https://youtu.be/c/GHOSTSPECTRE/videos
@@ -25058,7 +25063,7 @@ https://youtube-dl.org
 https://youtube.com/WebDevSimplified
 https://youtube.com/c/AdamKhoury
 https://youtube.com/c/AdamWathan/featured
-https://youtube.com/c/AndroidAppSec/videos
+https://youtube.com/c/AppSec/videos
 https://youtube.com/c/AniaKub%C3%B3w/videos
 https://youtube.com/c/AuditTheAudit/videos
 https://youtube.com/c/BenAwad97/featured
@@ -25254,7 +25259,7 @@ https://youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
 https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
 https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG
 https://youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb
-https://youtube.com/user/AndroidAuthority
+https://youtube.com/user/Authority
 https://youtube.com/user/CNETTV
 https://youtube.com/user/ChromeDevelopers
 https://youtube.com/user/CodersGuide

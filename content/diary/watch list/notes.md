@@ -25,18 +25,6 @@ httping -K
 
 
 ```markdown
-suske
-classroom of elite
-dark souls trilogy, bloodbourne, Sekiro and elden ring
-squid game
-```
-
-```markdown
-touhou
-ace attorney
-```
-
-```markdown
 Mass surveillance is a backdoor into freedom of speech. Knowledge is power. Power corrupts. And absolute power corrupts absolutely.
 ```
 

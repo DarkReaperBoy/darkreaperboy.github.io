@@ -62,6 +62,7 @@ https://www.youtube.com/channel/UCdPPmAd9qlG80qeSm74-eww (weird aut)
 https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA (anti game publish)
 https://www.youtube.com/channel/UCqTHx0ObkFZ97KO2SWUuz9w (art work review)
 https://www.youtube.com/channel/UClrQ5bB3n3VMbfcqwBA88hA (console drm)
+https://www.youtube.com/channel/UCv6G61MipNKwpi7707l42EQ (DJ Peach Cobbler)
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)

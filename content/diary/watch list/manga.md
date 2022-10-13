@@ -4,6 +4,7 @@ Tatsuki fujimoto
 
 
 complete 
+LOTGH
 Senryu Girl
 7 Jikanme no note
 Bonnouji
@@ -24,3 +25,4 @@ Watari-kun no xx ga Houkai Sunzen (it's drama tho)
 idk
 Takagi-san
 
+Hana Ga Saita Yo
