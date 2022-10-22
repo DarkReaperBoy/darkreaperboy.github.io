@@ -4,4 +4,3 @@ draft: false
 ---
 
 when they cry
-elden ring

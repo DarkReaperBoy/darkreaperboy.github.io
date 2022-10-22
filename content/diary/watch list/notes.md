@@ -11,9 +11,11 @@ I use these steps for mounting on linux https://gist.github.com/shamil/62935d9b4
 ```
 redists
 
+ winetricks -q corefonts d3dx9 dxvk dotnet35 dotnet45 dxvk vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2019 allcodecs
 
 __NV_PRIME_RENDER_OFFLOAD=1 PROTON_USE_WINED3D11=1 %command%
 
+nix-env --query --installed
 
 "Piracy is almost always a service problem and not a pricing problem." -Gabe Newell
 
