@@ -75,41 +75,6 @@ being a intrapreneur
 ```markdown
 Everything We Don't Know
 
-```
-
-```markdown
-░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
-░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
-░░░░░░░░░░░░░░░░▄▀▀▒▐▒░░░▌
-░░░░░▄▀▀▄░░░▄▄▀▀▒▒▒▒▌▒▒░░▌
-░░░░▐▒░░░▀▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒█
-░░░░▌▒░░░░▒▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄
-░░░░▐▒░░░░░▒▒▒▒▒▒▒▒▒▌▒▐▒▒▒▒▒▀▄
-░░░░▌▀▄░░▒▒▒▒▒▒▒▒▐▒▒▒▌▒▌▒▄▄▒▒▐
-░░░▌▌▒▒▀▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒█▄█▌▒▒▌
-░▄▀▒▐▒▒▒▒▒▒▒▒▒▒▒▄▀█▌▒▒▒▒▒▀▀▒▒▐░░░▄
-▀▒▒▒▒▌▒▒▒▒▒▒▒▄▒▐███▌▄▒▒▒▒▒▒▒▄▀▀▀▀
-▒▒▒▒▒▐▒▒▒▒▒▄▀▒▒▒▀▀▀▒▒▒▒▄█▀░░▒▌▀▀▄▄
-▒▒▒▒▒▒█▒▄▄▀▒▒▒▒▒▒▒▒▒▒▒░░▐▒▀▄▀▄░░░░▀
-▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▄▒▒▒▒▄▀▒▒▒▌░░▀▄
-▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▀▀▀▀▒▒▒▄▀
-░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
-░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
-░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
-░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
-░▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░█
-█▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒█
-█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
-░█▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█
-░░█░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█
-░░░█░░██░░▀█▄▄▄█▄▄█▄████░█
-░░░░█░░░▀▀▄░█░░░█░███████░█
-░░░░░▀▄░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█
-░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░█
-░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
-░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
-```
-
 ```markdown
 "Education is not the knowledge of facts but training of the mind to think."-Albert Einstein
 ```
@@ -136,3 +101,14 @@ We had another study a few days ago about how one way to convince people to chan
 ------------------
 
 @Shadow_ADV
+
+The problem with the LGBTQ community is that they think that you need to embrace and support their views 100% in order to not be homophobic.
+
+I guess by the Western definition of homophobia , all of us Muslims are homophobes. And it's something we should be proud of. 
+
+Well, Muslims should be anti-homo not homophobic. What’s there to fear about lol?
+
+Homophobia is a buzzword. People who are against the LGBT community aren't afraid of homosexuality. Same way people against alcohol consumption don't run away when they see a bottle of whiskey. We simply recognise the embracing of homosexually as a sin.
+
+ But you shouldn’t support or befriend them either
+

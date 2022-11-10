@@ -64,6 +64,10 @@ https://www.youtube.com/channel/UCqTHx0ObkFZ97KO2SWUuz9w (art work review)
 https://www.youtube.com/channel/UClrQ5bB3n3VMbfcqwBA88hA (console drm)
 https://www.youtube.com/channel/UCv6G61MipNKwpi7707l42EQ (DJ Peach Cobbler)
 https://www.youtube.com/channel/UCSAUGyc_xA8uYzaIVG6MESQ (asian comedy)
+https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ (animator)
+https://www.youtube.com/channel/UCLgTr0PFPCmvhgiuZ4d4xvw (animator)
+https://www.youtube.com/channel/UCJ6z_yj_dDNrhn-c8ZyKV4g (story teller)
+
 
 youtube watch:
 https://www.youtube.com/watch?v=eU-AkeOyiOQ (about marxism)
@@ -87,11 +91,6 @@ https://archive.org/details/softwarecapsules?query=xbox+360&sort=-week
 also nintendo switch (checked not all game tho) but not compressed:
 https://archive.org/download/DragonQuestHeroesI.IIforNintendoSwitchJapanTrimmed
 https://archive.org/download/no-intro-nintendo-switch/A7836E154A47A225EBAAEF2A966AD4A46C5910F2.torrent
-
-telegram:
-https://t.me/bo0ks1 (book)
-https://t.me/upload_stop (book)
-https://t.me/book_stop (book)
 
 add to fmhy:
 https://t.me/animworlddl
@@ -174,3 +173,28 @@ https://t.me/avamovie_ir
 https://benameiran.net
 https://t.me/bninew1
 
+persian school tutorial:
+http://alaatv.com/
+
+telegram:
+https://t.me/bo0ks1 (book)
+https://t.me/upload_stop (book)
+https://t.me/book_stop (book)
+https://t.me/a_n_i_m_e_ost (anime ost)
+https://t.me/aboutrss (rss tutorial)
+https://t.me/ahwaz_hackerz (persian pack)
+https://t.me/ahwaziahacker (persian pack)
+https://t.me/ai_python (persian ai)
+https://t.me/ShadowProxy66 (persian ss)
+https://t.me/akhbaronlain (persian tier 3 news)
+https://t.me/akhbr_mvsgh (persian tier 3 news)
+https://t.me/s/akss88 (persian porn manga)
+
+
+
+
+
+
+
+
+telegram bot:

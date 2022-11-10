@@ -24,5 +24,5 @@ Watari-kun no xx ga Houkai Sunzen (it's drama tho)
 
 idk
 Takagi-san
-
+unluck undead
 Hana Ga Saita Yo
