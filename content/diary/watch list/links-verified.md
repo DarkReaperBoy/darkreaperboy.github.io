@@ -140,7 +140,7 @@ https://t.me/Zedmoviebot
 https://alefmovie.website/
 
 https://aramoviez.ml
-https://t.me/s/aramoviez
+https://t.me/aramoviez
 
 https://www.f2m.space/
 
@@ -188,7 +188,7 @@ https://t.me/ai_python (persian ai)
 https://t.me/ShadowProxy66 (persian ss)
 https://t.me/akhbaronlain (persian tier 3 news)
 https://t.me/akhbr_mvsgh (persian tier 3 news)
-https://t.me/s/akss88 (persian porn manga)
+https://t.me/akss88 (persian porn manga)
 
 
 
