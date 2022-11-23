@@ -26,3 +26,5 @@ idk
 Takagi-san
 unluck undead
 Hana Ga Saita Yo
+Three Days of Happiness
+Oshi no Ko
