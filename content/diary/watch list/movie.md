@@ -262,3 +262,4 @@ devil man
 غرور تعصب استین
 بیگانه و سرطانو انسان طاغی و سقوط کامو
 The Queen's Gambit
+The Social Network, Never Let Me Go
