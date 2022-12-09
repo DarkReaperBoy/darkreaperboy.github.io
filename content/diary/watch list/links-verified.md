@@ -14,7 +14,7 @@ https://github.com/search?o=desc&q=stable+diffusion&s=stars&type=Repositories
 https://news.ycombinator.com/item?id=32780665
 https://github.com/hanzala123/arch2appimage
 https://gist.github.com/Misairu-G/616f7b2756c488148b7309addc940b28#some-tldr-about-the-idea-behind
-
+https://cirosantilli.com/china-dictatorship/
 
 youtube channel
 https://www.youtube.com/channel/UCvUT0gE9jEDZzeTNIsy85gg
