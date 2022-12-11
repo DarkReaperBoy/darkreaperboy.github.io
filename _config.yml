@@ -5,7 +5,7 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: http://example.com
+url: https://darkreaperboy.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
