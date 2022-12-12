@@ -156,34 +156,10 @@ widgets:
 plugins:
     animejs: true
     back_to_top: true
-    baidu_analytics:
-        tracking_id: 
-    bing_webmaster:
-        tracking_id: 
-    busuanzi: false
-    cnzz:
-        id: 
-        web_id: 
-    cookie_consent:
-        type: info
-        theme: edgeless
-        static: false
-        position: bottom-left
-        policyLink: https://www.cookiesandyou.com/
     gallery: true
-    google_analytics:
-        tracking_id: 
-    hotjar:
-        site_id: 
-    katex: false
-    mathjax: false
     outdated_browser: false
     progressbar: true
-    statcounter:
-        project: 
-        security: 
-    twitter_conversion_tracking:
-        pixel_id: 
+
 providers:
     cdn: jsdelivr
     fontcdn: google
