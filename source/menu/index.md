@@ -4,7 +4,7 @@ description: ''
 draft: false
 ---
 
-![why bother reading this?](why-read-name.webp)
+![why bother reading this?](/menu/why-read-name.webp)
 
 ***how are you? i hope you are strong to endure, so so, please select your language***
 > * [_Blogs/Tutorials (soon)_](/posts/)
