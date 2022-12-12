@@ -160,5 +160,4 @@ plugins:
 
 providers:
     cdn: jsdelivr
-    fontcdn: google
     iconcdn: fontawesome
