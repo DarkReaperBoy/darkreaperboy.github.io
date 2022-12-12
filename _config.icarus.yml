@@ -155,9 +155,7 @@ widgets:
 
 plugins:
     animejs: true
-    back_to_top: true
     gallery: true
-    outdated_browser: false
     progressbar: true
 
 providers:
