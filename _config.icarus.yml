@@ -152,21 +152,6 @@ widgets:
         links:
             Hexo: https://hexo.io
             Bulma: https://bulma.io
-    -
-        position: left
-        type: categories
-    -
-        position: left
-        type: recent_posts
-    -
-        position: left
-        type: archives
-    -
-        position: left
-        type: tags
-        order_by: name
-        amount: 
-        show_count: true
 
 plugins:
     animejs: true
