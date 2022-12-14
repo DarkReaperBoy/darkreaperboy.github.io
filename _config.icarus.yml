@@ -64,7 +64,7 @@ footer:
             url: https://github.com/ppoffice/hexo-theme-icarus
 article:
     highlight:
-        theme: github-dark
+        theme: xt256
         clipboard: true
         fold: unfolded
     readtime: true
