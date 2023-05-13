@@ -39,6 +39,13 @@ https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ (animator)
 https://www.youtube.com/channel/UCLgTr0PFPCmvhgiuZ4d4xvw (animator)
 https://www.youtube.com/channel/UCJ6z_yj_dDNrhn-c8ZyKV4g (story teller)
 https://youtube.com/channel/UCtEYIXdB50L-vy-KORei7VA (speedrun movie spoiler)
+https://www.youtube.com/channel/UCR4s1DE9J4DHzZYXMltSMAg (howtobasic)
+https://youtube.com/channel/UC5Wz4fFacYuON6IKbhSa7Zw (MattVidPro AI)
+https://youtube.com/channel/UCZRoNJu1OszFqABP8AuJIuw (Logically Answered)
+https://www.youtube.com/channel/UC-2dITC2dWU1cimozDS2xAg (why x failed)
+https://www.youtube.com/channel/UCkS_HP3m9NXOgswVAKbMeJQ (modern history)
+https://www.youtube.com/channel/UCE4Gn00XZbpWvGUfIslT-tA (modern business history)
+https://www.youtube.com/channel/UCWsslCoN3b_wBaFVWK_ye_A (hasem)
 
 
 youtube watch:
@@ -146,7 +153,7 @@ https://benameiran.net
 https://t.me/bninew1
 
 persian school tutorial:
-http://alaatv.com/
+https://alaatv.com/
 
 telegram:
 https://t.me/bo0ks1 (book)
