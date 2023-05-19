@@ -3,6 +3,7 @@ title: "anime"
 draft: false
 ---
 
+Hōseki no Kuni
 Joshiraku
 A Place Further than the Universe 
 Link Click
@@ -107,5 +108,4 @@ Wolf children> Kinda good
 Yakusoku no Neverland
 Yosuga no Sora
 Your Name 2016
-[https://wikiless.tiekoetter.com/wiki/List_of_Studio_Ghibli_works](https://wikiless.tiekoetter.com/wiki/List_of_Studio_Ghibli_works)
 the world's finest assasin
