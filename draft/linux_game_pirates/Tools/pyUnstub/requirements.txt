@@ -1,3 +1,0 @@
-construct
-lief==0.10.1
-pycryptodome
