@@ -1,1 +1,0 @@
-back of pirate party both telegram channel and their site
