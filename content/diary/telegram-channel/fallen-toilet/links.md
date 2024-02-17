@@ -5131,4 +5131,9 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8 
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml
-https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscriptihttps://www.youtube.com/watch?v=9C9azy3hBJoon3.yaml
+
+https://www.youtube.com/watch?v=9C9azy3hBJo
+@yeschinese
+https://www.youtube.com/watch?v=HoXUfGdVPjs
+https://www.youtube.com/watch?v=VmXDxLGSGaM
