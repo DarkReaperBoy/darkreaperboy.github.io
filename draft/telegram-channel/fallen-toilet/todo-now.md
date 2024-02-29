@@ -61,9 +61,6 @@ https://www.youtube.com/watch?v=k2jTV61LAuk
 
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [9:49:45 PM]
 ai folder:
-https://discord.gg/flowgpt
-https://discord.gg/6QTYvvmtuv
-https://discord.gg/muDvZDgwEd
 https://discord.gg/aB7xhXUdBn
 https://discord.gg/r3gdwkaf9M
 https://discord.gg/uvpsXXpTbx
@@ -81,7 +78,6 @@ https://discord.gg/sail
 
 irani
 https://discord.gg/tFd5uK5ECE
-https://discord.gg/persianatheist
 https://discord.gg/ir
 
 programming:

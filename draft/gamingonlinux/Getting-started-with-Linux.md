@@ -232,7 +232,6 @@ Learn using the [[terminal]]. While you might not necessarily need it, it makes 
 ==Troubleshooting==
 *Google
 *Join the IRC channel of the distribution that you are using
-*Join the [https://discord.gg/linuxgaming /r/linux_gaming discord channel]
 *[https://www.reddit.com/r/linux_gaming Ask in one of the linux subreddits]
 *Ask in forums
 

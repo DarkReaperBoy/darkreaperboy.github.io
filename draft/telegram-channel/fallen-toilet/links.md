@@ -469,23 +469,8 @@ Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [2:16:21 AM]
 https://t.me/scrapmanbot
 
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [2:27:13 AM]
-https://discord.gg/sillytavern
-https://discord.gg/touhouai
-https://discord.gg/aihub
-https://discord.gg/hugging-face-879548962464493619
-https://discord.gg/unstablediffusion
-https://discord.gg/PgZPNxJFZr
-https://discord.gg/7eJSYxpx9n
 
 
-https://discord.gg/WXfhAb4Zsr
-https://discord.gg/QJuDhKC5nb
-https://discord.gg/yuzu-emu
-https://discord.gg/omori
-https://discord.gg/BbuZ4Waa
-https://discord.gg/bJ4pcJQ3Vj
-https://discord.gg/plutonium
-https://discord.gg/undertaleyellow
 
 
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [3:41:12 PM]
@@ -1542,7 +1527,6 @@ https://www.xirvik.com
 
 Custom Seedboxes
 https://www.reddit.com/user/Andy10gbit
-Andy's Discord: https://discord.gg/7Gv8tdM
 
 Reddit Resources
 https://www.reddit.com/r/seedboxes/wiki/index
@@ -2138,50 +2122,6 @@ https://ryocafe.site/
 https://technicalsuwako.moe/
 عاشق این دوتا شدم, شما خوشتون نمیاد و نیت ذخیرس
 
-Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [12:35:29 PM]
-Fallen's Hidden Toilet, [12:25:20 PM]
-ai server:
-https://discord.gg/sillytavern
-https://discord.gg/Gvm8PpjXA8
-https://discord.gg/pygmalionai
-https://discord.gg/erogpt
-https://discord.gg/theblokeai
-https://discord.gg/aB7xhXUdBn
-https://discord.gg/q8wpvynE2d
-https://discord.gg/nomic-ai-1076964370942267462
-https://discord.gg/chubai
-https://discord.gg/eleutherai
-https://discord.gg/pCNV4uAYeh
-https://discord.gg/r3gdwkaf9M
-https://discord.gg/unstablediffusion
-
-piracy server:
-https://discord.gg/thechampagne
-
-httrack
-
-anime server:
-https://discord.gg/otaku
-https://discord.gg/snackbox
-
-gaming server:
-https://discord.gg/linux-weebs
-https://discord.gg/yuzu-emu
-https://discord.gg/nindo
-https://discord.gg/FPTcsBVNHN
-https://discord.gg/project-shinobi-770819167498272789
-https://discord.gg/XrpZssk4tE
-https://discord.gg/omori
-https://discord.gg/plutonium
-https://discord.gg/psone-740330402920529951
-https://discord.gg/N9a9vvnr3x
-https://discord.gg/rpcs3
-https://discord.gg/ezz
-https://discord.gg/hgmservers
-
-discord mod server:
-https://discord.gg/vendetta-mod
-https://discord.gg/vencord
 
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [12:41:22 PM]
 vpn channel:

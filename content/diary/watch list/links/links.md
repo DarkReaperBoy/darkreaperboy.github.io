@@ -1787,7 +1787,6 @@ https://disconnect.me/
 https://discord.biz/
 https://discord.com/
 https://discord.fmhy.tk/
-https://discord.gg/
 https://discordapp.com/
 https://discordbots.org/
 https://discordthread.date/
