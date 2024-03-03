@@ -59,62 +59,11 @@ https://www.youtube.com/watch?v=gxdBoheNnGw
 https://www.youtube.com/watch?v=VcFRhIK-EoM
 https://www.youtube.com/watch?v=k2jTV61LAuk
 
-Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [9:49:45 PM]
-ai folder:
-https://discord.gg/aB7xhXUdBn
-https://discord.gg/r3gdwkaf9M
-https://discord.gg/uvpsXXpTbx
-https://discord.gg/theblokeai
-https://discord.gg/vgXTqMF2Wb
-https://discord.gg/unstablediffusion
-https://discord.gg/chubai
-https://discord.gg/stablediffusion
-https://discord.gg/pygmalionai
-https://discord.gg/touhouai
-https://discord.gg/aihub
-https://discord.gg/sillytavern
-https://discord.gg/sail
 
 
-irani
-https://discord.gg/tFd5uK5ECE
-https://discord.gg/ir
 
-programming:
-https://discord.gg/JqrpUwPaU2
-https://discord.gg/reddit-gamedev
-https://discord.gg/gdn
-https://discord.gg/code
-https://discord.gg/cscareerhub
-http://invite.progdisc.club/
-https://discord.gg/programming
-https://discord.gg/B7EaDz8Pfj
-https://discord.gg/gamedev
 
-retard servers:
-https://discord.gg/egirl
-https://discord.gg/otaku
-https://discord.gg/r-anime
-https://discord.gg/egirl
-https://discord.gg/edgy
-https://discord.gg/sinful
-https://discord.gg/fun
-https://discord.gg/vc
-https://discord.gg/chill
-https://discord.gg/daddy
 
-gaming servers:
-https://discord.gg/ezz-968255249506791524
-https://discord.gg/66bRn6PyQ7
-https://discord.gg/fRpHPexXVM
-https://discord.gg/M8JDqP7V
-https://discord.gg/vencord
-https://discord.gg/omoriemotes
-https://discord.gg/omori
-
-fmhy:
-https://discord.gg/Stz6y6NgNg
-https://discord.gg/Gy4VSQYA37 (جوین نشو پرایویته من بن میشم)
 
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [9:56:19 PM]
 check 
