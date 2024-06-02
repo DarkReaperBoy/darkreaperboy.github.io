@@ -3,6 +3,8 @@ title: "anime"
 draft: false
 ---
 
+
+detective conan
 Hōseki no Kuni
 Joshiraku
 A Place Further than the Universe 
