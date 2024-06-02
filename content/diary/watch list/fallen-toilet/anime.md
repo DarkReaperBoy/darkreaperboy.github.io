@@ -3,7 +3,7 @@ title: "anime"
 draft: false
 ---
 
-
+کارگاه گجت
 detective conan
 Hōseki no Kuni
 Joshiraku
