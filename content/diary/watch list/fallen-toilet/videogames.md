@@ -3,8 +3,6 @@ title: "videogames"
 draft: false
 ---
 pc:
-call of duty
-yakuza
 Injustice 2
 Quantum Break
 manhunt
@@ -15,6 +13,7 @@ There is no light
 Ark 
 OMORI
 doom hexen
+Fear & Hunger 2: Termina
 immortal
 dwarf fortress
 hades
