@@ -1,5 +1,11 @@
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [7:37:54 PM]
 loop hero
+nier
+mafia 2
+payday 2
+red dead 0
+NieR:Automata Ver1.1a
+Rising Zan: The Samurai Gunman
 
 Fallen Reaper 『リーパーボーイ』⁪⁬⁮ 🦦, [3:47:39 PM]
 kenshi

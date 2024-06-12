@@ -2,7 +2,7 @@
 title: "movie"
 draft: false
 ---
-
+The Iron Giant
 Jackass 2022
 Love Death Robots
 The Truman Show
@@ -89,6 +89,8 @@ Malayalam:
 "Ayyappanum Koshiyum" (2020) - IMDb: 7.9
 "Koode" (2018) - IMDb: 7.3
 "Lucifer" (2019) - IMDb: 7.5
+
+کارگاه مرداک و کارگاه پو ارو و کارگاه شرلوک هلمز
 
 Kannada:
 

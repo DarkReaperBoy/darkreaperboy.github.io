@@ -4819,3 +4819,22 @@ https://www.youtube.com/watch?v=9C9azy3hBJo
 @yeschinese
 https://www.youtube.com/watch?v=HoXUfGdVPjs
 https://www.youtube.com/watch?v=VmXDxLGSGaM
+
+
+‌GrimIrani, [2:14 PM]
+http://sadamitsu.ru/cwcheat/?mob
+اموزشش
+http://www.sadamitsu.ru/cheats4.htm
+
+https://www.calculator.net/hex-calculator.html
+ماشین حسابش
+
+‌GrimIrani, [2:14 PM]
+http://sadamitsu.ru/netcheat/ 
+انیمیشناش
+http://www.sadamitsu.ru/cwcheat/movefinder.htm
+کداش
+https://www.emulatorgames.net/roms/playstation-portable/tekken-6/
+ادرس دانلود فایل تکن psp 
+https://www.ppsspp.org/download/
+با نصب این برنامه میشه اجراش کرد
